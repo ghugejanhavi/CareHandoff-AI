@@ -1,0 +1,31 @@
+# Render deployment blueprint — https://render.com/docs/blueprint-spec
+# Deploy: connect your GitHub repo in the Render dashboard → "New Blueprint"
+# Then set OPENAI_API_KEY (and OPENAI_EMBEDDING_KEY if using OpenRouter) in
+# the service's Environment tab.
+
+services:
+  - type: web
+    name: carehandoff-ai
+    env: docker
+    plan: free          # 512 MB RAM, spins down after 15 min inactivity
+    healthCheckPath: /api/health
+
+    # ── Docker build args ─────────────────────────────────────────────────────
+    # Render passes the matching env var values as Docker build args so the
+    # ingestion stage can embed all documents at build time (not at runtime).
+    # Cold starts are then instant — no embedding needed on startup.
+    buildArgs:
+      - OPENAI_EMBEDDING_KEY
+      - OPENAI_API_KEY
+
+    # ── Environment variables ─────────────────────────────────────────────────
+    # sync: false  →  value set manually in Render dashboard (not stored here)
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false       # paste your key in Render → Environment tab
+
+      - key: OPENAI_API_BASE
+        sync: false       # leave blank for standard OpenAI; set for OpenRouter
+
+      - key: OPENAI_EMBEDDING_KEY
+        sync: false       # standard sk-... OpenAI key used only for embeddings

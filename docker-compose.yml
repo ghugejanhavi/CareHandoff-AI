@@ -1,0 +1,14 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - chromadb_data:/app/chromadb_data
+      - ./data/raw/mimic:/app/data/raw/mimic:ro
+    restart: unless-stopped
+
+volumes:
+  chromadb_data:
