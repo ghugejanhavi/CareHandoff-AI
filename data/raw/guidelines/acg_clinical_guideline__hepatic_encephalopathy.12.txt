@@ -1,0 +1,3483 @@
+588
+
+CLINICAL GUIDELINES
+
+ACG Clinical Guideline: Hepatic Encephalopathy
+Jasmohan S. Bajaj, MD, MS, FACG1, Sofia S. Jakab, MD2, Arun B. Jesudian, MD, FACG3, Robert S. Rahimi, MD4,
+Andres Duarte-Rojo, MD5, Po-Hung Chen, MD, PhD, FACG6,*, Robert J. Wong, MD, MS, FACG7,*, Elliot B. Tapper, MD8 and
+Puneeta Tandon, MD, MSc(Epi)9
+
+Hepatic encephalopathy is a major and burdensome complication of cirrhosis, with significant consequences for patients,
+families, and healthcare systems. Its progression from covert to overt disease is not fully reflected in current transplant listing
+criteria, leaving many patients inadequately prioritized for transplantation despite substantial impairment in quality of life. This
+guideline of the American College of Gastroenterology presents 24 recommendations for the diagnosis, management, and
+prevention strategies for hepatic encephalopathy. The Grading of Recommendations, Assessment, Development, and
+Evaluation process was used to assess the quality of evidence for each statement. Key concepts are also provided for statements
+to which the Grading of Recommendations, Assessment, Development, and Evaluation process has not been applied.
+KEYWORDS: cirrhosis; disorder of gut-brain axis; Bristol Stool scale; liver transplant; caregiver burden; readmission; cognitive testing
+ABBREVIATIONS: ACLF, acute on chronic liver failure; AI, artificial intelligence; AKI, acute kidney injury; APRI, AST to Platelet Ratio Index;
+
+AUDIT-C, Alcohol Use Disorder Identification Test; BCAA, branched chain amino acids; BM, bowel movements; CHE, covert hepatic
+encephalopathy; CPAP, continuous positive airway pressure; CT, computed tomography; DAST, Drug Abuse Screen Test; DDLT, deceased
+donor liver transplant; DM, diabetes mellitus; ER, Emergency room; FMT, fecal microbiota transplant; GABA, gamma aminobutyric acid;
+GCS, Glasgow Coma Scale; HCC, hepatocellular cancer; HE, hepatic encephalopathy; HEGI, Hepatic Encephalopathy Grading
+Instrument; HEST, Hepatic Encephalopathy Staging Tool; HRQoL, health-related quality of life; ICU, intensive care unit; IR, interventional
+radiology; ISHEN, international society for hepatic encephalopathy and nitrogen metabolism; LDLT, living donor liver transplant; LES, lateevening snack; LFI, liver frailty index; LOLA, L-ornithine L-aspartate; LT, liver transplant; MAMC, mid arm muscle circumference; MELD,
+model for end-stage liver disease; MHE, minimal hepatic encephalopathy; MMSE, mini mental status exam; MMSE, Mini-Mental Status
+Examination; MoCA, Montreal Cognitive Assessment; NGT, nasogastric tube; OHE, overt hepatic encephalopathy; OSA, obstructive sleep
+apnea; PETH, phosphatidylethanolamine; PHQ, patient health questionnaire; PMI, psoas muscle index; PO, per oral; PROMIS8, PatientReported Outcomes Measurement Information System; PT, physical therapy; PTSD, posttraumatic test disorder; QoL, quality of life; RCT,
+randomized controlled trial; RR, relative risk; RRT, renal replacement therapy; SBO, small bowel obstruction; SDU/MICU, step-down/
+medical intensive care unit; SPSS, spontaneous porto-systemic shunts; STOP-BANG, (Snore; Tired, Observed apnea; Pressure (high
+blood pressure), BMI (.35); Age (.50), Neck circumference (.40cm/17in men, .40cm/16in women), and Gender (male)]; TIPS,
+transjugular intrahepatic portosystemic shunt; TUG, timed up and go; WH, West Haven
+SUPPLEMENTARY MATERIAL accompanies this paper at http://links.lww.com/AJG/D846
+Am J Gastroenterol 2026;121:588–618. https://doi.org/10.14309/ajg.0000000000003899; published online March 3, 2026
+
+INTRODUCTION
+Under the auspices of the American College of Gastroenterology
+(ACG) Practice Parameters Committee, a group of experts in
+hepatic encephalopathy (HE) were identiﬁed for the writing
+group. The proposed writing group was reviewed by the ACG
+Practice Parameters Committee and the ACG leadership, and
+the ﬁnal approved writing group consisted of the current
+authorship team.
+
+Regular meetings were conducted among this writing group
+throughout the guideline development process to formulate
+PICO questions that guided the subsequent literature search,
+development of recommendation statements and key concepts,
+Grading of Recommendations, Assessment, Development, and
+Evaluation (GRADE) assessments, and the preparation of the full
+guideline document. The search strategy was developed and executed in PubMed (MEDLINE) and then adapted to the syntax
+
+1
+
+Virginia Commonwealth University and Richmond VA Medical Center, Richmond, Virginia, USA; 2Yale University and VA CT Medical Center, New Haven,
+Connecticut, USA; 3Weill Cornell Medicine, New York, New York, USA; 4Baylor University Medical Center, Dallas, Texas, USA; 5Northwestern University Medical
+Center, Chicago, Illinois, USA; 6Johns Hopkins University, Baltimore, Maryland, USA; 7Stanford University and Palo Alto VA Medical Center, Palo Alto, California,
+USA; 8University of Michigan, Ann Arbor, Michigan, USA; 9University of Alberta, Edmonton, Alberta, Canada. Correspondence: Jasmohan S. Bajaj, MD, MS, FACG.
+E-mail: jasmohan.bajaj@vcuhealth.org.
+
+*GRADE methodology experts.
+
+Received September 9, 2025; accepted December 15, 2025
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Table 1. Grading of Recommendations, Assessment, Development, and Evaluation: strength of recommendations, certainty of evidence,
+and implications for the patients and clinicians
+Strength of recommendation
+
+Criteria
+
+Factors influencing the strength of the recommendation include the certainty of the evidence, clinical and patient-reported outcomes, risk of harm, and costs/
+healthcare resource utilization
+Strong
+
+Strong recommendations are offered when the desirable effects of an intervention clearly outweigh the
+undesirable effects
+Implications from a patient and clinician perspective:
+Patients: Most individuals in this situation would prefer the recommended course of action and only a small
+proportion would choose an alternative
+Clinicians: Most patients should receive the recommended course of action or an alternative with similar
+strength of recommendation
+
+Conditional
+
+Conditional recommendations are offered when tradeoffs are less certain—either because of low certainty of
+evidence or because evidence suggests that desirable and undesirable effects are closely balanced
+Implications from a patient and clinician perspective:
+Patients: Some individuals would want the suggested course of action whereas others may not. A discussion regarding
+pros, cons, and available alternatives is appropriate to reach an individualized patient-specific decision
+Clinicians: A shared decision-making model through a discussion regarding the available evidence and
+alternative options is appropriate, taking into consideration the values and preferences of the patient
+
+Quality of evidence
+
+Criteria
+
+High
+
+We are very confident that the true effect closely aligns with that of the estimate of the effect
+
+Moderate
+
+We have a moderate level of confidence in the estimate of effect. It is likely that the true effect is close to the
+estimate of the effect
+
+Low
+
+Our confidence in the effect estimate is limited. The true effect could differ from the estimate of effect
+
+Very low
+
+We have very little confidence in the estimate effect. The true effect may be substantially different from the
+estimate of effect
+
+and controlled vocabulary of Embase and Cochrane Library. The
+searches were ﬁltered to fully published articles on human populations in the English language, with a focus on the highest levels
+of evidence. Priority was given to systematic reviews and
+meta-analyses, followed by randomized controlled trials
+(RCTs) whenever available. These guidelines are presented in
+the format of statements that were deemed to be clinically
+important by the content authors. The GRADE process was
+used to assess the quality of evidence for each statement
+(Table 1) (1–4). The certainty of evidence is expressed high
+(we are conﬁdent in the eﬀect estimate to support a particular
+recommendation), moderate, low, or very low (we have very
+little conﬁdence in the eﬀect estimate to support a particular
+recommendation) based on the risk of bias of the studies,
+evidence of publication bias, heterogeneity among studies,
+directness of the evidence, and precision of the estimate of
+eﬀect (2). A strength of recommendation is given as either
+strong (recommendations) or conditional (suggestions)
+based on the quality of evidence, risks vs beneﬁts, feasibility,
+and costs considering perceived patient-based and
+population-based factors (5). Furthermore, a narrative evidence summary for each section provides important deﬁnitions and further details for the data supporting the
+statements.
+In addition to guideline recommendations, the authors
+have highlighted key concept statements that are not included in the GRADE assessment. Key concepts are statements to which the GRADE process has not been applied and
+© 2026 by The American College of Gastroenterology
+
+can include both expert opinion recommendations and
+deﬁnitions/epidemiological statements. Tables 2 and 3 have
+the recommendations and key concepts that have also been
+displayed in their respective sections below.
+
+BACKGROUND
+HE is one of the most impactful complications of cirrhosis (6).
+The negative eﬀects are felt by the patients, their families, and the
+healthcare systems (7). The progression of HE from the covert to
+the overt stage is not completely captured by the current transplant listing criteria, and patients with HE often ﬁnd themselves
+in the limbo of not being sick enough to be transplanted and not
+well enough to live life to their fullest (8).
+The term “hepatic encephalopathy” is an oversimpliﬁcation because the pathogenesis involves several organs and varying precipitants
+(7). HE development, as noted above, has manifold negative impacts on
+patients, families, and healthcare systems, and as a testament to the
+complexity of this syndrome, requires a personalized village to manage
+this (9). The 3 villages of HE are noted in Figure 1 (village 1: multiple
+pathogenetic factors within the patient; village 2: negative impact on
+patients, families, and healthcare systems; and village 3: multiple specialties and practices needed to adequately manage HE).
+The deﬁnition of HE in prior American Association for the Study of
+Liver Diseases and European Association for the Study of the Liver
+Guidelines, which has stood the test of time, is “hepatic encephalopathy
+(HE) is brain dysfunction resulting from liver impairment or portosystemic shunting, presenting as a spectrum of neurological and psychiatric
+manifestations” (10,11). Implicit in this deﬁnition is (i) HE can occur
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+589
+
+590
+
+Bajaj et al
+
+Table 2. Recommendations
+CHE/MHE
+1. In patients being evaluated for MHE or CHE, we suggest a single-test strategy over a 2-test combination strategy (conditional recommendation, very low certainty of
+evidence)
+2. In patients being evaluated for MHE or CHE, we suggest against using serum ammonia levels alone to make the diagnosis (conditional recommendation, very low
+certainty of evidence)
+3. In patients with MHE/CHE, we suggest treatment with lactulose vs no treatment (conditional recommendation, low certainty of evidence)
+4. There is insufficient evidence to recommend for or against routine treatment of MHE/CHE for prevention of OHE (insufficient evidence, no recommendation)
+Inpatient management of HE
+5. In patients with HE, we suggest against routine testing of serum ammonia to guide HE treatment decisions (conditional recommendation, very low certainty of evidence)
+6. In patients with cirrhosis and confusion without new-onset focal neurologic deficits, we suggest against routine brain imaging (conditional recommendation, very low
+certainty of evidence)
+7. In patients with OHE, we recommend treatment with lactulose to improve patient outcomes and prevent recurrence of OHE episodes (strong recommendation,
+moderate certainty of evidence)
+8. In patients with OHE, we suggest treatment with high-volume (e.g., 4 L) polyethylene glycol preparations as an alternative option to lactulose therapy (conditional
+recommendation, low certainty of evidence)
+9. In patients with acute OHE, we suggest adding rifaximin to lactulose therapy vs lactulose therapy alone (conditional recommendation, low certainty of evidence)
+Prevention of HE recurrence
+10. After an initial episode of OHE, we recommend lactulose titrated to 2–3 soft bowel movements daily as outpatient first-line therapy for prevention of HE recurrence
+(strong recommendations, high certainty of evidence)
+11. In patients treated with lactulose for HE, we suggest using the Bristol Stool Scale along with bowel movement frequency for the outpatient titration of lactulose to reduce
+readmissions (conditional recommendation, very low certainty of evidence)
+12. In patients with cirrhosis and OHE, we suggest rifaximin therapy in the outpatient setting to prevent HE recurrence (conditional recommendation, low certainty of
+evidence)
+13. In patients with OHE on lactulose maintenance therapy who experience recurrent episodes of HE, we recommend addition of rifaximin treatment (strong
+recommendation, high certainty of evidence)
+14. In patients with OHE and persistent symptoms despite lactulose and rifaximin therapy, we suggest the addition of zinc supplementation in those with low blood zinc
+levels (conditional recommendation, very low certainty of evidence)
+15. We suggest implementing health information technology interventions, such as the Patient Buddy App or electronic clinical reminders, when feasible, to optimize HE
+management (conditional recommendations, very low certainty of evidence)
+16. We suggest shunt embolization in patients with refractory HE on optimized medical therapy who have adequate hepatic function and no contraindications (conditional
+recommendation, very low certainty of evidence)
+Sarcopenia and nutrition
+17. We recommend a protein intake target of 1.2–1.5 g/kg/d in outpatients with HE (strong recommendation, moderate certainty of evidence)
+18. We recommend BCAA supplementation in individuals with HE if protein needs cannot be met by food alone (strong recommendation, moderate certainty of evidence)
+19. We suggest a late-night snack for patients with cirrhosis to reduce frailty and HE (conditional recommendation, very low certainty of evidence)
+20. We suggest against protein restriction in patients with HE because it increases muscle breakdown and does not reduce the duration of HE (conditional
+recommendation, very low certainty of evidence)
+21. We suggest exercise interventions in patients with HE to reduce the risk for falls, lower portal pressure, and increase the capacity of skeletal muscle for ammonia
+metabolism (conditional recommendation, low certainty of evidence)
+HE in the context of TIPS
+22. We recommend initiating rifaximin therapy 14 d before elective TIPS insertion and continuing for at least 6 mo in patients with decompensated cirrhosis with or without
+a prior episode of OHE to decrease the risk of recurrent or de novo OHE (strong recommendation, moderate certainty of evidence)
+23. We suggest embolizing extrahepatic collaterals at the time of TIPS to reduce post-TIPS HE (conditional recommendation, low certainty of evidence)
+Liver transplant and HE
+24. For patients with multiple HE episodes and MELD score ,15, we suggest evaluating candidacy for living donor liver transplantation (conditional recommendation, low
+certainty of evidence)
+CHE, covert hepatic encephalopathy; MELD, model for end-stage liver disease; MHE, minimal hepatic encephalopathy; OHE, overt hepatic encephalopathy; TIPS,
+transjugular portosystemic shunt.
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Table 3. Key concepts
+CHE/MHE
+1. Given the low reproducibility of clinical diagnosis of CHE (minimal or grade 1 HE), CHE should be defined by excluding OHE (grade 2 or higher) in the appropriate clinical context
+2. Isolated asterixis without alterations in behavior or alertness is not enough to diagnose OHE
+3. Patients with cirrhosis and 1 or more of the following features could be prioritized for MHE testing:
+a. Hypoalbuminemia
+b. Decompensated cirrhosis (e.g., presence of ascites, variceal bleeding, or jaundice)
+c. Clinically significant portal hypertension or presence of portosystemic shunts
+d. Cirrhosis with nonspecific cognitive complaints, difficulties with concentration, impaired quality of life, navigation issues/traffic violations, and falls
+e. Difficulty operating heavy machinery
+f. Commercial drivers/pilots
+4. Since a large proportion of patients with cirrhosis and cognitive complaints could have conditions other than MHE, specific assessments for alternative diagnoses such as sleep apnea, alcohol-related
+conditions, and mild cognitive impairment should be performed, ideally in a specialized clinic or through referral, especially in those with isolated delayed memory issues or isolated sleep issues
+5. Cognitive testing for CHE/MHE and subsequent therapy with lactulose or rifaximin may improve health-related quality of life
+6. In patients with cirrhosis being evaluated for MHE or CHE, several testing options are available according to availability of local expertise and norms: psychometric hepatic encephalopathy score, Stroop
+EncephalApp, QuickStroop, animal naming test, inhibitory control test, continuous reaction time, and critical flicker frequency
+7. A second-line agent could be considered for treating MHE/CHE in certain patients with cirrhosis (e.g., BCAA/LOLA if sarcopenia/frailty, zinc if low serum levels, and l-carnitine if concomitant skeletal
+muscle cramps)
+8. Whenever a theragnostic approach with lactulose is attempted, it should be followed by an evaluation of adherence and potential symptom improvement 4–8 wk after prescription, to inform continuation
+or not
+Inpatient management of OHE
+9. In patients with cirrhosis and confusion, clinical scores (WH criteria, GCS) identify patients with high-grade HE requiring appropriate triage/transfer to SDU/MICU to prevent complications such as
+aspiration pneumonia
+10. A thorough evaluation for bleeding, infection, sedating medications, and toxic and metabolic abnormalities is necessary to identify and treat possible precipitating or contributing factors to mental status
+changes in patients with cirrhosis
+11. A normal blood ammonia level in patients with altered mental status should prompt consideration of other potential diagnoses in addition to OHE
+12. If a patient does not recover their mental status after 48–72 hours of adequate HE therapy and precipitating factor reversal, evaluation for alternative causes of altered mental status, inadequately
+addressed or unrecognized precipitating factors, or shunts should be considered
+Prevention of HE recurrence
+13. Engaging in a multidisciplinary medication reconciliation process at hospital discharge is necessary to ensure patients are prescribed appropriate prophylactic therapies against recurrent HE and that
+potentially harmful medications are dose reduced or stopped
+14. Serum ammonia levels should not be used to guide initiation or titration of HE therapies or in the evaluation of HE recurrence in the outpatient setting
+15. A thorough review of medication lists in patients with HE should be performed to identify and minimize therapies that may affect mental status assessment or risk of encephalopathy (e.g., opiates,
+benzodiazepines, antiepileptic pain medications [gabapentin and pregabalin], sleep medications [zolpidem, zaleplon, and eszopiclone], and proton pump inhibitors)
+16. HE therapy may be deescalated and potentially discontinued in a stepwise fashion in patients who clinically recompensate
+17. Oral and written advice to avoid driving should be given to patients and caregivers based on expert consensus in patients with recent (,3 mo) episodes of OHE.
+18. All patients with HE and their caregivers should receive HE-based educational materials (e.g., www.cirrhosiscare.ca)
+19. Caregivers should be screened for caregiver burnout and provided necessary support as appropriate
+Sarcopenia and nutrition
+20. All patients with HE (including those with MHE/CHE) should be evaluated for impaired muscle health/physical fitness using available tools (e.g., sarcopenia/myosteatosis, skeletal muscle strength,
+physical function, frailty, or cardiorespiratory fitness) because these are all important targets of HE therapy
+21. Patients with impaired muscle health/physical fitness in any of its clinical presentations (i.e., sarcopenia, physical frailty, and deconditioning), and patients with myosteatosis (fat infiltration into muscle),
+have an increased risk for HE
+22. Critically ill patients with HE should receive up to 2 g/kg/d protein intake
+23. Although sarcopenia is not by itself an indication or a contraindication for TIPS, it could be associated with increased post-TIPS HE and post-TIPS mortality
+24. Increases in ammonia levels after anaerobiosis have not been associated with an elevated risk for HE and should not discourage clinicians from prescribing exercise for patients with cirrhosis
+25. Patients with any form of HE may experience an increased risk of exercise-induced injury. Supervision by exercise professionals, caregivers, or other surrogates is key to prevent exercise-related adverse
+events
+Liver transplant and HE
+26. Adding 4–5 MELD points regardless of the MELD score iteration used more accurately reflects the 90-day mortality of inpatient OHE and outpatient CHE
+27. As multiple HE episodes lead to persistent cognitive impairment which may not recover after LT, early LT could have additional benefits to improve brain function
+28. Early evaluation for liver transplantation should be considered in patients with high MELD3.0 scores, severe HE (grades III–IV), or frequent HE episodes, to improve long term outcomes
+29. Persistent confusion in an inpatient setting is a relative contraindication to transplant
+
+BCAA, branch-chained amino acid; CHE, covert hepatic encephalopathy; GCS, Glasgow Coma Scale; HE, hepatic encephalopathy; LOLA, l-ornithine-l-aspartate; LT, liver
+transplant; MELD, model for end-stage liver disease; MHE, minimal hepatic encephalopathy; OHE, overt hepatic encephalopathy; SDU/MICU, step-down/medical
+intensive care unit; TIPS, transjugular portosystemic shunt; WH, West Haven.
+
+© 2026 by The American College of Gastroenterology
+
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+591
+
+592
+
+Bajaj et al
+
+without cirrhosis with simple portosystemic shunting and (ii) neuropsychiatric and subclinical symptoms can occur as part of this syndrome.
+Management of HE requires careful documentation of not only
+the circumstances surrounding the current episode but also previous
+episodes (11). Prior guidelines focused on 4 axes: (i) type, (ii) grade or
+severity, (iii) time course, and (iv) precipitated or not. However, given
+the major impact that social determinants of health have on HE, we
+have added a ﬁfth axis. A strong social infrastructure is essential to
+prevent readmissions or recurrences; it consists of social and family
+support, ﬁnancial support to ensure medication adherence and assistance if lower earning or driving capability, and institutional
+support from the hospitals to ensure timely and meaningful followup (Figure 2) (12). Using these axes as a checklist, the clinical and
+psychosocial determinants of HE recurrence and social determinants
+of health in this context can be identiﬁed and potentially addressed.
+The guideline here focuses on clinical aspects of HE in patients
+with cirrhosis only and provides a framework for ensuring optimal
+management and improving clinical and psychosocial outcomes
+during the complex patient journey as illustrated in Figure 3. The
+focus is on (i) burden of HE from multistakeholder perspective and
+prognostic factors; (ii) growing importance of comorbid conditions;
+(iii) diagnosis and management of covert HE (CHE)/minimal HE
+(MHE); (iv) inpatient management including decision to hospitalize,
+refractory HE assessment, and transplant assessment; (v) prevention
+of recurrence using medication and nonmedication strategies; (vi)
+role of nutrition, sarcopenia in HE management; (vii) emerging
+management strategies; and (viii) special circumstances.
+
+BURDEN OF HE
+Incidence and prevalence of HE
+
+HE is now the ﬁrst decompensating event among patients with cirrhosis (13). Estimates of the incidence of a ﬁrst episode of HE, however,
+are dependent on the population studied and are highly inﬂuenced by
+
+the case-mix of etiologies and disease severity of the cohort at baseline
+(14): 1-year incidence of 10% for Child A and 25% for Child B patients
+with cirrhosis and portal hypertension (15), 5-year incidence of 3.8%
+(less advanced cirrhosis, less reliable diagnostic coding) (16) to 43.7% in
+a Veterans Aﬀairs cohort of patients with cirrhosis and portal hypertension and/or an aspartate aminotransferase to Platelet Ratio Index
+(APRI) .2.0 (17). Owing to the fractured nature of electronic health
+records, an accurate estimate of the prevalence of HE is challenging.
+Using the global burden of disease study, it is estimated that the
+prevalence of decompensated cirrhosis is 113.2/100,000 adults in the
+United States (18). If there are 260 million US adults and roughly 40%
+of patients with decompensated cirrhosis will develop HE (16), then
+prevalence of HE is roughly 118,000 individuals.
+Cost of HE
+
+Per person-year cost data regarding combined inpatient and outpatient expenditures for HE are lacking but the inpatient HE hospitalization costs have risen from $38,897 in 2007 to $49,391 in 2017
+(19). HE is the most common cause of readmission among patients
+hospitalized for complications of cirrhosis with 90-day readmission
+rates of 21%–53% (20,21). With the inclusion of medication and
+outpatient care expenditures to those of readmissions, healthcare cost
+after an initial hospitalization for HE is substantial at around
+$18,457–$20,030 per person per month during a mean follow-up
+period of 5.7–6.9 months (22). HE is uniquely associated with collateral damage to the wellbeing of caregivers (23) who report a significant burden, particularly regarding the impact on their schedule,
+personal health, and sense of entrapment (24). Adding to the social
+challenges faced by patients with HE, caregivers report debt, food
+insecurity, diﬃculty paying bills, and evictions while also being unable
+to attend to their own health needs (24). Their health-related qualityof-life measures are also impaired (25,26) and reveal severe limitations,
+frustration, sadness, and even resentment (25–27).
+
+Figure 1. The 3 villages of HE (First published in Am J Gastroenterol. 2021;116(6):1184–1186. doi:10.14309/ajg.0000000000001212). Villages center
+around pathogenesis (village 1), impact of HE (village 2), and village needed to manage HE (village 3). HE, hepatic encephalopathy.
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+CHE AND MHE
+Recommendations
+1. In patients being evaluated for MHE or CHE, we suggest a singletest strategy over a 2-test combination strategy (conditional
+recommendation, very low certainty of evidence).
+2. In patients being evaluated for MHE or CHE, we suggest against
+using serum ammonia levels alone to make the diagnosis
+(conditional recommendation, very low certainty of evidence).
+3. In patients with MHE/CHE, we suggest treatment with lactulose vs
+no treatment (conditional recommendation, low certainty of
+evidence).
+4. There is insufficient evidence to recommend for or against routine
+treatment of MHE/CHE for prevention of overt HE (OHE)
+(insufficient evidence, no recommendation).
+
+Key concepts
+1. Given the low reproducibility of clinical diagnosis of CHE (minimal
+or grade 1 HE), CHE should be defined by excluding OHE (grade
+2 or higher) in the appropriate clinical context.
+2. Isolated asterixis without alterations in behavior or alertness is not
+enough to diagnose OHE.
+3. Patients with cirrhosis and 1 or more of the following features
+could be prioritized for MHE testing:
+a. Hypoalbuminemia
+b. Decompensated cirrhosis (e.g., presence of ascites, variceal
+bleeding, or jaundice)
+c. Clinically significant portal hypertension or presence of
+portosystemic shunts
+d. Cirrhosis with nonspecific cognitive complaints, difficulties
+with concentration, impaired quality of life, navigation issues/
+traffic violations, and falls
+e. Difficulty operating heavy machinery
+f. Commercial drivers/pilots
+4. Cognitive testing for CHE/MHE and subsequent therapy with
+lactulose or rifaximin may improve health-related quality of life.
+5. Since a large proportion of patients with cirrhosis and cognitive
+complaints could have conditions other than MHE, specific
+assessments for alternative diagnoses such as sleep apnea,
+alcohol-related conditions, and mild cognitive impairment should
+be performed, ideally in a specialized clinic or through referral,
+especially in those with isolated delayed memory issues or
+isolated sleep issues.
+6. In patients with cirrhosis being evaluated for MHE or CHE, several
+testing options are available according to availability of local expertise
+and norms: psychometric HE score, Stroop EncephalApp,
+QuickStroop, animal naming test, inhibitory control test, continuous
+reaction time, and critical flicker frequency.
+7. A second-line agent could be considered for treating MHE/CHE in
+certain patients (e.g., branch-chained amino acid [BCAA]/
+l-ornithine-l-aspartate [LOLA] if sarcopenia/frailty; zinc if low serum
+levels, and l-carnitine if concomitant skeletal muscle cramps).
+8. Whenever a theragnostic approach (positive therapeutic challenge)
+with lactulose is attempted, it should be followed by an evaluation of
+adherence and potential symptom improvement 4–8 weeks after
+prescription, to inform continuation or not.
+
+Clinical and psychosocial relevance of CHE/MHE
+
+MHE is the subclinical form of HE that can only be identiﬁed
+through specialized neuropsychological or neurophysiological
+© 2026 by The American College of Gastroenterology
+
+testing (28). This is often combined with grade 1 HE by the West
+Haven criteria, which is also diﬃcult to diagnose in clinical
+practice (28), under the term of CHE. This is to diﬀerentiate it
+from the clinically obvious overt HE (OHE) forms
+(i.e., grades 2–4) (29). Since patients with grade 1 HE show
+abnormal neuropsychological or neurophysiological
+testing—similar to patients with MHE—and telling these 2
+apart is clinically challenging, MHE and CHE are usually
+used interchangeably.
+Subtle cognitive or behavioral changes are reported by patients
+or their caregivers and/or identiﬁed by an experienced clinician.
+Flapping tremor or asterixis can occur in patients with CHE.
+Furthermore, bradykinesia, rigidity, and other parkinsonian-like
+extrapyramidal signs can also be observed in CHE when carefully
+investigated (30–32). By itself, the presence of motor abnormalities on physical examination without a cognitive or
+arousal deﬁcit should not automatically classify patients as
+having OHE. As such, asterixis alone is not enough to diagnose
+OHE, and rather, its presence should direct physicians to
+pursue a detailed cognitive history. Recent regulatory updates
+in HE drug development have determined that asterixis
+without behavioral abnormalities should not be considered or
+treated as OHE.
+Despite the diﬃcult diagnosis, CHE carries clinical relevance
+(28). One of the earliest manifestations of CHE is an attention
+deﬁcit—aﬀecting both attention span and attention shift—which
+generates dire consequences such as a failing working memory
+deﬁcit and impaired learning (33,34). These can result in diminished work productivity or ﬁnancial mishaps. Reduced motor
+coordination and psychomotor speed, along with fatigue make
+patients with CHE prone to falls and self-injury (35–37). Furthermore, deﬁcits in visuospatial orientation, response inhibition,
+and speed of information processing aﬀect their navigation skills,
+can make them unﬁt to drive, and result in motor vehicle crashes
+(38,39). Patients with CHE have a higher risk for incidental OHE
+and admission to the hospital, and it has been reported that CHE
+is associated with accelerated cirrhosis progression and death
+(40–42). Finally, CHE is associated with decreased quality of life,
+as shown in multiple studies through various patient-reported
+outcomes tools.
+Overall strategy to triage CHE testing
+
+When tested, CHE is found in 20%–80% of patients with cirrhosis
+and no prior history of OHE, its prevalence depending on the
+degree of hepatic impairment (i.e., highest frequency in ChildTurcotte-Pugh C) (43–45). Despite its high prevalence and providers’ recognition of its importance, less than 15% of centers
+routinely test for CHE and at least one-third of practices never
+test for CHE (46,47). The low enthusiasm for testing for CHE
+likely relates to (i) the lack of a target population gaining a clear
+beneﬁt from standardized screening; (ii) the lack of a clear
+screening pathway using suﬃciently accurate and userfriendly tests that is easy to implement; and (iii) the lack of
+consistent proof of improved outcomes after treatment and
+resolution of CHE, although there is improvement in quality
+of life.
+Studies have shown that patients with hypoalbuminemia or
+hyperammonemia are more likely to test positive for CHE
+(42,48). Moreover, those with decompensated liver disease
+(i.e., ascites variceal bleeding, or jaundice) are at risk of further
+decompensation in the form of OHE and would beneﬁt from
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+593
+
+594
+
+Bajaj et al
+
+Figure 2. Five axes to assess and reduce HE recurrence (modified from AASLD/EASL HE Guidelines 2014 Hepatology). Type, grade, time course,
+precipitating factor, and social infrastructure are all important in appropriate clinical management and prevention of recurrence of HE. AASLD, American
+Association for the Study of Liver Diseases; EASL, European Association for the Study of the Liver; HE, hepatic encephalopathy.
+
+reﬁned risk estimation (49), similar to patients showing portosystemic shunts (particularly if large, $8 mm) on imaging (50). As
+such, it is reasonable to test for patients with the aforementioned
+conditions, as well as those complaining of mild and unspeciﬁc
+cognitive deﬁcits not compatible with OHE—by patient or
+caregiver—or experiencing work diﬃculties, traﬃc violations,
+motor vehicle accidents, or unprovoked falls (28). Clinical
+investigations for unexplained fatigue or deteriorating quality of
+life should also include testing for CHE (51). Finally, although
+patients with CHE are more prone to exhibit poor sleep quality,
+the changes are subtle (52,53) and a standard diﬀerential diagnosis for sleep disorders should be followed. This includes
+ruling out obstructive sleep apnea, which is more frequent in
+patients with ascites (54,55).
+Individual tests for CHE/MHE
+
+Although many tests have been developed to investigate CHE, not
+all of them count with both cross-sectional validation, where the
+populations of interest are contrasted to existing norms, and
+
+longitudinal validation, where the patients with and without CHE are
+followed up over time to determine the associated risk(s) for incidental clinical outcomes (56). A pertinent note on cross-sectional
+validation is that it bases the diagnosis of CHE on patients showing
+a test result—or battery of tests—that is more extreme (i.e., worse)
+than a control population adjusted by age, sex, level of education,
+and/or other features known to aﬀect cognition. Since cognitive skills
+are also highly dependent on upbringing and cultural environment,
+it is recommended to use nationally and culturally validated tests
+(57–61). In this regard, complex batteries testing alphabetical
+or mathematical skills can show wider variability across
+countries and cultural identities. Neurophysiological tests
+potentially oﬀer more intercultural stability by testing neurocognitive pathways linked to CHE pathophysiology. Although few laboratory tests have been investigated for the
+detection of CHE—including blood ammonia levels—none
+has been suﬃciently validated or accurate enough to reach the
+clinical arena (62–69), and at the present time, there is no
+laboratory test suﬃcient to diagnose or rule out this condition.
+
+Figure 3. A typical patient journey through HE depicted by the orange line. Covert HE can be diagnosed definitively using cognitive testing, while overt HE
+(starting from grade 2 or higher West-Haven criteria) often requires hospitalization. A typical patient course includes multiple HE recurrences. HE, hepatic
+encephalopathy.
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Table 4 summarizes some tests that could be performed in
+clinics, while Supplementary Table S1 (Supplementary Digital
+Content 1, http://links.lww.com/AJG/D846) shows all tests that
+have a published record. Tests should be performed in a quiet, welllit room with no distractions or interruptions. Importantly,
+agreement between CHE diagnostic tests is poor given that they all
+assess diﬀerent aspects of cognitive functioning, with little to no
+overlap. Thus, to strengthen CHE diagnosis, professional societies
+have recommended using a 2-test strategy with expected agreement between the 2 tests to call CHE out (11). Although attractive,
+when tested in the real-world, the 2-test strategy resulted in no
+improved accuracy for incidental OHE prediction, when compared
+with single testing. Furthermore, the former resulted in a lower
+sensitivity making it less appealing—and practical—for screening
+(85). Given the intricacies of CHE testing, including the need for
+a dedicated history and physical to explore cognitive and sleep
+disorders alike, a dedicated clinic with a streamlined workﬂow
+would constitute an ideal setup for patients in need of multidisciplinary expertise (86,87).
+The Mini-Mental State Examination (MMSE) or the Montreal
+Cognitive Assessment (MoCA) test has been used particularly in
+the research setting to screen for dementia, where patients with
+a positive result are referred for in-depth neuropsychological
+evaluation. However, MMSE and MoCA can be abnormal in CHE
+(61,88,89), and no speciﬁc threshold can help diﬀerentiate the
+CHE spectrum from other forms of cognitive deterioration
+(i.e., delirium or dementia). Usually, although some MMSE or
+MoCA patterns could sway the diagnosis toward dementia, these
+escape standard hepatology practice and would require specialized interpretation, without oﬀering complementary screening
+information to CHE-dedicated testing in clinical practice.
+Whenever mild cognitive deterioration, dementia, or delirium are
+being suspected, a referral to specialists in the ﬁeld should be
+sought. Usually, patients with isolated delayed memory issues or
+isolated sleep issues have overlapping or other explanations for
+these issues other than HE (86,87,90).
+
+Treatment for CHE/MHE
+
+Lactulose has been studied to treat CHE in multiple RCTs. Almost universally, improvement in neuropsychological tests has
+been reported (91), including a higher MHE reversal rate, when
+compared with control group/placebo (92). Quality of life also
+improves after treatment (93), and participants under the active
+arm experienced a decreased rate of incidental OHE (94,95), although evidence on improved mortality is lacking. Comparisons
+of rifaximin to placebo have yielded similar results to those of
+lactulose, and rifaximin remained within the noninferiority
+margin in an RCT against lactulose (96–98). Rifaximin has also
+been reported to help with driving simulation performance (99).
+Despite its potential beneﬁt, the cost of rifaximin and diﬃculties
+with third-payer approval may make it diﬃcult to justify its use
+for CHE treatment.
+A theragnostic approach has resurfaced as part of a novel
+emphasis on symptom-based management, where a positive
+therapeutic challenge can be taken as proof for concept for underlying CHE. As an example, a patient with diﬃculties with
+concentration or navigating skill experiencing symptomatic improvement after a short trial of lactulose would provide both
+diagnostic and therapeutic justiﬁcation for continued treatment.
+Importantly, whenever a clinician decides to follow the theragnostic route, it should contemplate a limited trial duration (e.g.,
+4–8 weeks) and a clear symptom-based response, a priori. It
+would be unjustiﬁed to keep patients exposed to the adverse
+eﬀects of a medication for a long period or for unclear clinical
+reasons.
+Apart from ﬁrst-line OHE medications, other agents have
+been tested as treatment for CHE either with less consistent
+positive results or in trials which designs were aﬀected by confounding. These include LOLA, BCAAs, prebiotics/probiotics,
+l-carnitine, zinc, and others (100–110). Although blood ammonia
+level, inﬂammatory parameters, and magnetic resonance spectroscopy improve after treatment of CHE, results are less consistent (98,109,111–114). Remarkably, there is no ﬁrm evidence
+
+Table 4. Cognitive tests for practical use in clinic
+
+Resources and time
+complete
+
+Test description
+
+Tested domains
+
+Reported MHE
+or CHE
+prevalence
+
+Clinical utility
+
+Pros and cons
+
+App-based version
+Stroop
+EncephalApp (Full)
+of Stroop test
+(61,70–72)
+
+Smartphone or tablet
+5–15 min
+
+Psychomotor speed,
+cognitive flexibility
+
+45%–55%
+
+Predicts OHE
+
+Easy to apply, although full
+version can be long for
+some patients
+
+Quickstroop
+(73,74)
+
+Shorter version of
+EncephalApp
+
+Smartphone or tablet
+1–2 min
+
+Psychomotor speed
+
+45%–55%
+
+Predicts HE
+
+Not for color blind subjects
+
+Animal Naming
+Test (75–78)
+
+Recall of animal
+names
+
+Non
+1 min
+
+Memory, verbal
+retrieval, recall selfmonitoring
+
+30%–40%
+
+Predicts OHE
+and death
+
+Practical and easy to apply,
+appropriate for
+transcultural testing;
+however, it is not specific
+for MHE/CHE
+
+Critical flicker
+frequency (79–84)
+
+Response to
+a fused/single
+light becoming
+a flickering light
+
+Computer and specialized
+viewing chamber vs
+smartphone and light
+source
+
+Integrity of visual tract
+and reaction time
+
+40%–55%
+
+Predicts OHE
+and death
+
+Appropriate for
+transcultural testing, but
+needs specialized
+equipment; affected if
+visual acuity is impaired
+
+CHE, covert hepatic encephalopathy; MHE, minimal hepatic encephalopathy; OHE, overt hepatic encephalopathy.
+
+© 2026 by The American College of Gastroenterology
+
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+595
+
+596
+
+Bajaj et al
+
+Figure 4. Potential causes of cognitive impairment in patients with cirrhosis that can mimic or worse HE symptoms. HE, hepatic encephalopathy.
+
+to substantiate that treating CHE with a second-line agent
+decreases the rate of incidental OHE (115), and no eﬀect on
+mortality has been found. Finally, treating CHE with either a ﬁrstline or second-line agent can result in nonserious adverse eﬀects
+and ﬁnancial stress that need to be weighed in when contemplating treatment (116). The main beneﬁcial outcome of CHE
+therapy is improvement in daily function and quality of life
+(95,99,117). The decision to treat and choice of medication
+should be discussed with patient/caregiver through a shareddecision-making process, considering the impact of their symptoms and potential challenges related to treatment.
+
+COMORBID CONDITIONS AND CHE/MHE
+In the outpatient setting, symptoms such as sleep-wake alterations, changes in behavior or mood, forgetfulness, slow mentation, and speech are very common in patients with cirrhosis (118).
+The assumption that these patients have HE ignores other potential contributors to cognitive impairment such as dementia
+(87); sleep apnea (54); psychiatric and substance use disorders
+(119); and endocrine, metabolic, or medication-related conditions (Figure 4) (118). Older patients with cirrhosis may have
+several comorbidities that could mimic HE symptoms (120–122).
+An accurate diagnosis of cognitive impairment to diﬀerentiate
+HE from other conditions entails a detailed neuropsychological
+assessment, which is time-consuming, requires expertise and
+speciﬁc equipment. Nevertheless, lack of consideration of other
+causes of cognitive problems and the tendency to treat these
+symptoms with HE therapies results in patients’ exposure to
+unwarranted medications (lactulose, rifaximin) with signiﬁcant
+side eﬀects and cost, as well as delays in the diagnosis and treatment of the actual problems. An analysis of 286 patients with
+cirrhosis and cognitive complaints referred through a dedicated
+consult pathway using detailed history, medication review,
+standardized tests (MMSE, Psychometric HE Score, and others),
+and obstructive sleep apnea screening found that more than 50%
+of patients did not have MHE (86). The diﬀerential diagnosis for
+non-HE cognitive symptoms included mild cognitive impairment and dementia, mood disorders, posttraumatic stress disorder, and obstructive sleep apnea. Table 5 includes testing
+modalities to help diagnose some of these conditions. An overall
+ﬂowchart is in Figure 5.
+The American Journal of GASTROENTEROLOGY
+
+The management of comorbidities in the holistic approach to
+HE can be crystalized as a 3-pronged approach: addressing factors
+that worsen liver function, supporting bodily functions that aid in
+ammonia clearance, and improving conditions that could worsen
+HE. First, patients with alcohol use disorder should be referred for
+therapy and intervention, and sobriety can halt the progression if
+not reverse the course of cirrhosis. A similar eﬀect is true for
+eradication of hepatitis C and likely so for hepatitis B (131).
+Second, as reviewed elsewhere, ameliorating malnutrition including micronutrients such as zinc and macronutrients such as
+protein and calories is critical for the support of extrahepatic
+metabolism of ammonia. Third, it is possible, although robust
+studies are needed, that improvements in glycemic control could
+improve response to HE therapies (132).
+
+OHE MANAGEMENT
+Decision for outpatient vs inpatient management
+
+Deciding if a patient requires outpatient vs inpatient evaluation is
+based on several factors and must be individualized. Some factors
+that need to be considered include HE severity (grade), certainty
+of HE diagnosis, need for further evaluation/treatment of possible
+precipitants, and ability of family and patient to manage in an
+outpatient setting (Figure 6). The guiding principles are as
+follows:
+1. The severity of mental status changes dictates the need for
+emergency room evaluation and hospitalization; CHE and
+selected patients with grade 2 HE could be managed as outpatient.
+2. For patients presenting with their ﬁrst episode of mental status
+changes, evaluation in the emergency department may be
+necessary to exclude other etiology rather than assuming HE.
+A typical presentation consistent with prior HE episodes could
+be managed as outpatient if HE grade 2 or less.
+3. If there is suspicion of infection, bleeding, dehydration, or
+other precipitant requiring further evaluation and treatment,
+patients may need emergency room evaluation and possible
+hospitalization.
+4. If the patient is agitated or unlikely to comply or there is no
+reliable support/supervision, outpatient management is not an
+option.
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Table 5. Comorbid conditions that may cause or exacerbate cognitive impairment in patients with cirrhosis in outpatient and inpatient
+settings
+Outpatients and cognitive impairment
+Comorbid condition(s)
+
+Diagnostic approach
+
+Mild cognitive impairment, dementia
+
+MMSE or Montreal cognitive assessment (88,89,123)
+
+Endocrine or electrolyte disorders (DM, hypothyroidism,
+hyponatremia/hypernatremia, hypocalcemia/hypercalcemia)
+
+Hemoglobin A1c
+Thyroid panel
+Chemistry panel
+
+Sleep disorders
+
+STOP-BANG questionnaires for Obstructive Sleep Apnea
+(124); assess adherence if already on CPAP; PROMIS8 sleep
+(125)
+
+Mood disorders
+
+PHQ-9 for depression (126), Beck Anxiety Inventory (127)
+
+Posttraumatic test disorder
+
+PCL-5: PTSD Checklist for DSM-5 (128)
+
+Substance abuse
+
+Toxicology screen, DAST (129), AUDIT-C (130)
+
+Medication effect
+
+Medication review, especially for pain (opioids, gabapentin),
+anxiety (benzodiazepines), and insomnia
+
+Neurologic conditions (stroke, brain lesions or bleeding,
+neurological infections, epilepsy)
+
+Brain CT or MRI
+Electroencephalogram
+Lumbar puncture
+
+Inpatient diagnosis and alternatives
+Exclude other causes of acute mental status
+Sepsis
+Diabetes complications causing encephalopathy (hypoglycemic, hyperosmolar, and ketoacidosis)
+Uremic encephalopathy
+Severe electrolyte disorders (hyponatremia/hypernatremia, hypocalcemia/hypercalcemia)
+Other hyperosmolar conditions: diabetes insipidus, and intoxication (ethylene glycol, methanol)
+Intoxication or withdrawal (alcohol, benzodiazepines, opiates, and other drugs)
+Wernicke’s encephalopathy
+Hypoxic or hypercapnic encephalopathy
+Neurological conditions (intracranial bleed, stroke, trauma, malignancy, and neuroinfection)
+Epilepsy (nonconvulsive epilepsy, postictal state)
+Endocrine (hypothyroidism/hyperthyroidism, adrenal insufficiency, and panhypopituitarism)
+Exposures (carbon monoxide, heavy metals)
+Acute psychosis
+Dementia
+Identify and treat precipitating factors for hepatic encephalopathy
+Infection
+Gastrointestinal bleeding
+Electrolyte disorder
+Acute kidney injury
+Constipation
+Dehydration
+AUDIT-C, Alcohol Use Disorder Identification Test; CPAP, continuous positive airway pressure; CT, computed tomography; DAST, Drug Abuse Screen Test; DM, diabetes
+mellitus; MMSE, Mini-Mental Status Examination; PHQ, patient health questionnaire; PROMIS, Patient-Reported Outcomes Measurement Information System; PTSD,
+posttraumatic test disorder.
+
+If there are no precipitating factors other than the need to
+adjust lactulose regimen, many patients with CHE or selected
+grade 2 HE could be managed with careful medication review and
+
+© 2026 by The American College of Gastroenterology
+
+close outpatient follow-up. Adjusting HE treatment early prevents progression and avoids complications such as aspiration
+pneumonia which could signiﬁcantly alter the patients’ outcome.
+
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+597
+
+598
+
+Bajaj et al
+
+Inpatient management of HE
+
+Recommendations
+5. In patients with HE, we suggest against routine testing of serum
+ammonia to guide HE treatment decisions (conditional
+recommendation, very low certainty of evidence).
+6. In patients with cirrhosis and confusion without new-onset focal
+neurologic deficits, we suggest against routine brain imaging
+(conditional recommendation, very low certainty of evidence).
+7. In patients with OHE, we recommend treatment with lactulose to
+improve patient outcomes and prevent recurrence of OHE
+episodes (strong recommendation, moderate certainty of
+evidence).
+8. In patients with OHE, we suggest treatment with high-volume
+(e.g., 4 L) polyethylene glycol preparations as an alternative option
+to lactulose therapy (conditional recommendation, low certainty
+of evidence).
+9. In patients with acute OHE, we suggest adding rifaximin to
+lactulose therapy vs lactulose therapy alone (conditional
+recommendation, low certainty of evidence).
+
+Key concepts
+10. In patients with cirrhosis and confusion, clinical scores (West
+Haven criteria, Glasgow Coma Scale) identify patients with highgrade HE requiring appropriate triage/transfer to step-down/
+medical intensive care unit to prevent complications such as
+aspiration pneumonia.
+11. A thorough evaluation for bleeding, infection, sedating
+medications, and toxic and metabolic abnormalities is
+necessary to identify and treat possible precipitating or
+contributing factors to mental status changes in patients with
+cirrhosis.
+12. A normal blood ammonia level in patients with altered mental
+status should prompt consideration of other potential diagnoses
+in addition to OHE.
+13. If a patient does not recover their mental status after 48–72
+hours of adequate HE therapy and precipitating factor reversal,
+evaluation for alternative causes of altered mental status,
+inadequately addressed or unrecognized precipitating factors,
+or shunts should be considered.
+14. Engaging in a multidisciplinary medication reconciliation
+process at hospital discharge is necessary to ensure that
+patients are prescribed appropriate prophylactic therapies
+against recurrent HE and that potentially harmful medications
+are dose reduced or stopped.
+
+HE should be suspected in any patient with cirrhosis and
+altered mental status (Figures 7 and 8). The initial evaluation
+should focus on:
+1. grading the severity of mental status changes, to appropriately
+triage the level of care (outpatient vs regular ﬂoor vs stepdown/intensive care) and interventions;
+2. determining if HE is indeed the cause of mental status changes
+(with or without other conditions that can cause cognitive
+changes);
+3. identiﬁcation of precipitating or contributing factors which
+will require treatment in addition to the speciﬁc therapy
+for HE; common precipitating factors are constipation,
+gastrointestinal (GI) bleeding, infections, hyponatremia, and
+dehydration/diuretic overdose.
+The American Journal of GASTROENTEROLOGY
+
+HE diagnosis is based on clinical symptoms and examination
+ﬁndings. There is no test to speciﬁcally conﬁrm HE, and HE is
+ultimately a diagnosis of exclusion. HE is assumed to be the most
+likely explanation of mental status changes when careful evaluation for other conditions is negative. HE is suspected in patients
+with cirrhosis who present with deﬁcits in attention and concentration, from shortened attention span to disorientation,
+confusion, and somnolence, and it can further progress to lethargy and coma. Patients can also have sleep disturbances, personality changes, bizarre behavior, and sometimes psychiatric
+and neurological symptoms (133).
+A thorough clinical examination, including a full neurological
+assessment, will help determine the following:
+1. The severity of cognitive deﬁcits will appropriately triage the
+initial interventions (such as intubation to secure airways) and
+disposition (need for step-down or intensive care unit). West
+Haven criteria (134) (Figures 7 and 8) should be used to
+determine the grade of HE on initial presentation and
+throughout hospital course. The Glasgow Coma Scale (135)
+(Figures 7 and 8) should be used to assess and monitor patients
+with signiﬁcant impairment of their level of consciousness.
+Other scales are used for inpatient trials to standardize OHE
+severity. The Hepatic Encephalopathy Scoring Algorithm is
+a tool validated across all grades of HE and uses the clinical and
+paper-pencil test to incorporate attention, memory, and
+psychomotor function (Figure 7) (136). It uses a point based
+system for both clinical and neuropsychological assessment to
+determine the grade of HE; however, it takes about 20 minutes to
+administer, and it is used in the research setting rather than in
+clinical practice. Other scales such as Hepatic Encephalopathy
+Grading Instrument and Hepatic Encephalopathy Staging Tool
+have also been studied in trials to increase the speciﬁcity of the
+semiquantitative West-Haven criteria (137,138).
+2. Asterixis (ﬂapping tremor of the hand when wrists are
+hyperextended) can be elicited in patients with lower grade
+HE, but it can be observed in metabolic encephalopathy of
+other etiology (uremia).
+3. Presence of new focal neurological ﬁndings would make HE
+less likely or will point to a neurological condition that requires
+further evaluation with brain imaging and neurology consult.
+4. Presence of precipitating/contributing factors, such as
+infection (including skin or oral cavity) or bleeding, will
+require further evaluation and treatment.
+Laboratory evaluation will help determine precipitating/
+contributing factors, such as bleeding, infection, and toxic and
+electrolyte/metabolic abnormalities (Table 5). Infections are the
+most common cause of hospital admission in cirrhosis and
+a common precipitating factor for HE; therefore, culture of blood,
+ascites, and urine should be performed in all patients, as well as
+stool and sputum if clinical suspicion (139). Venous ammonia
+should not be routinely measured because it is not a diagnostic
+test for HE (140). It can be used to rule out HE because diagnosis is
+questionable if a patient is stuporous or comatose and ammonia
+level is normal. HE therapy should not be adjusted based on the
+ammonia level (141), but rather on clinical improvement. Despite
+its central role in the pathophysiology of HE, ammonia testing in
+clinical laboratories is unreliable and should not inform diagnosis
+or treatment decisions in the inpatient or outpatient management
+of HE (142). For example, in a study of 551 patients diagnosed
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Figure 5. Proposed flow chart to evaluate patients with cirrhosis and cognitive complaints. This specifically addresses the 3 most common comorbid
+conditions (alcohol use disorder, obstructive sleep apnea, and dementia/mild cognitive impairment). AUDIT-C, Alcohol Use Disorders Identification TestConcise; CHE, covert hepatic encephalopathy; MCI, mild cognitive impairment; MMSE, Mini-Mental Status Examination; MoCA, Montreal Cognitive
+Assessment.
+
+with HE, 40% had normal serum ammonia levels, and lactulose
+therapy did not diﬀer between those with normal and elevated
+ammonia (143). Sample handing and processing as well as protein intake all interfere with or aﬀect blood ammonia values (144).
+Furthermore, venous ammonia levels do not correlate with severity of HE (142), and prognosis of patients with cirrhosis admitted with confusion was similar regardless of ammonia level
+increase (145). Clinical assessment should therefore be relied on
+for the diagnosis of HE, grading of severity, and response to
+treatment including remission and recurrence.
+For patients with cirrhosis and acute mental status changes requiring hospitalization, especially with seizures and new focal deﬁcits,
+the diﬀerential diagnosis should include neurological conditions
+(intracranial bleed, stroke, brain lesion, nonconvulsive epilepsy, neurological infections, and dementia) or other metabolic encephalopathy
+
+(sepsis, uremia, and hypoxia), especially if clinical ﬁndings suggestive of
+these etiologies, or lack of response to primary HE treatment.
+Brain imaging performed clinically (routine computed tomography scan or MRI) does not diagnose HE, and it has limited
+value in patients without focal neurological deﬁcits, seizures, or
+those with multiple prior episodes (146–148). It is useful to investigate other conditions such as acute and chronic subdural
+hematoma, subarachnoid bleeding, stroke, or brain lesion in
+patients with situations mentioned earlier (149). This is separate
+from research-related brain multimodal imaging, which has a role
+in determining the pathophysiology of HE.
+Medications for inpatient HE
+
+First-line treatment includes nonabsorbable disaccharides
+(lactulose), treatment of precipitating/contributing factors, and
+
+Figure 6. Decision-making aid in whether to hospitalize a patient with suspected HE that focuses on severity, presentation, precipitants, and social
+infrastructure. HE, hepatic encephalopathy.
+© 2026 by The American College of Gastroenterology
+
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+599
+
+600
+
+Bajaj et al
+
+Figure 7. Outline of the major scales that have been used to grade inpatients with HE. HE, hepatic encephalopathy.
+
+optimization of nutritional status (Figure 8). Nonabsorbable
+disaccharides such as lactulose have been used for the management of HE for decades (150). The mechanism of action of lactulose is controversial and is based on its ability to acidify the gut
+lumen (preventing the absorption of ammonia by trapping it as
+ammonium ions in the gut, and increasing its elimination with
+the stool through its laxative eﬀect), presumed prebiotic eﬀect
+(inhibiting ammoniagenic bacteria and promoting acidophilic
+
+bacteria lacking urease such as lactobacilli, which produce less
+ammonia), and inhibition of intestinal glutamine uptake and
+subsequent decreased ammoniagenesis (151). Lactulose for the
+treatment of acute HE can be administered orally for patients with
+grade 2 HE (152,153), using a dose of 10–20 g (15–30 mL) every
+2 hours until the patient has 2 soft bowel movements, with subsequent dose reduction to 2–4 times per day, to maintain 2–3
+bowel movements daily (154). Patients with grade 3–4 HE who
+
+Figure 8. Flowchart for inpatient management and discharge transitions for patients with HE. AKI, acute kidney injury; BM, bowel movements; HE, hepatic
+encephalopathy; IR, interventional radiology; NGT, nasogastric tube; PO, per oral; PT, physical therapy; SBO, small bowel obstruction; SDU/MICU, stepdown/medical intensive care unit.
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Figure 9. Proposed flowchart for patients with HE who do not respond to initial therapy. HE, hepatic encephalopathy.
+
+are unable to swallow or patients who are at risk of aspiration will
+require placement of nasogastric tube, using similar dosing to oral
+administration, or lactulose enema in patients with preserved anal
+sphincter tone (200 g lactulose or 300 mL of lactulose solution with
+700 mL of water or normal saline, retain for 30–60 minutes, repeat
+every 4–6 hours until improvement in mental status) (155). Careful
+titration of lactulose is critical because overuse can lead to complications such as perianal skin irritation/infection, ileus, aspiration, dehydration, hypernatremia, and hypokalemia, which can
+become potential precipitants of HE recurrence (156).
+Other laxative agents such as magnesium salts were used before the introduction of lactulose, suggesting that catharsis alone
+may be eﬀective for treatment of HE. In a RCT, polyethylene
+glycol 3350-electrolyte solution (PEG3350) led to more rapid HE
+resolution than standard lactulose therapy (157). PEG3350, oral
+or through nasogastric tube, should be considered in patients who
+have abdominal discomfort or gas distension or ileus from lactulose (158).
+Tap water enema has the beneﬁt of rapid access and wide
+availability, but acidifying agents such as lactose and lactitol were
+found to be superior to tap water enemas for acute management
+of HE (159,160).
+Rifaximin (a nonabsorbable antibiotic that aﬀects ammonia
+production by modulating intestinal bacterial composition) is an
+established treatment for HE recurrence (161,162), but the impact of rifaximin use for acute treatment of HE is less deﬁned
+(163). There are data suggesting that rifaximin in combination
+with lactulose might be more eﬀective than lactulose alone for the
+inpatient treatment of HE (164). A RCT showed that the combination of rifaximin and lactulose resulted in a higher rate of
+complete reversal of HE, a reduction in hospital stay and mortality (165).
+© 2026 by The American College of Gastroenterology
+
+Albumin was investigated as an adjunct to lactulose for
+treatment of HE, with limited data showing an increased rate of
+complete HE reversal and reduction in mortality (166,167), but its
+role remains unclear.
+Treatment of precipitating factors is important not only because it addresses the underlying cause for admission (infection,
+bleeding, and dehydration), but it may also reverse HE. Concomitant disorders with a signiﬁcant eﬀect on mental status in
+patients with cirrhosis include hyponatremia, hyperglycemia,
+and thiamine deﬁciency. Of note, hyponatremia, hyperglycemia,
+and sepsis can independently cause metabolic encephalopathy or
+precipitate HE through their impact on HE pathophysiological
+mechanisms (168,169). Timely diagnosis of potential precipitants
+requires a high index of suspicion especially if patients’ mental
+status interferes with a complete history. As such, a thorough
+investigation for infection including diagnostic paracentesis is of
+utmost importance for early diagnosis and treatment (139,140).
+Empirical broad-spectrum antibiotics should not be used in the
+absence of symptoms or laboratory ﬁndings suggestive of active
+infection and if started should be tailored quickly based on culture
+results or discontinued if no signs of infection are found.
+Treatment of HE for patients in intensive care unit (ICU). Various
+liver or nonliver injuries (viral hepatitis, drug-induced liver injury,
+alcohol-associated hepatitis, pneumonia, or other infections) in
+patients with chronic liver disease might result in hepatic and extrahepatic organ failures (termed acute on chronic liver failure or
+ACLF) (170). Management of HE for these patients is addressed in
+the recent 2022 ACG guidelines (171), including considerations on
+evaluation, concomitant medications use for pain, agitation, and/or
+sedation, as well as goals of care. For patients who require ICU
+management in the absence of ACLF, all those principles apply, but
+there are a few additional aspects to consider.
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+601
+
+602
+
+Bajaj et al
+
+1. Use of lactulose will require adjustment primarily based on
+bowel movements because mental status assessment will not
+be possible in a patient intubated and sedated. In patients with
+fecal incontinence requiring use of a fecal management system
+(rectal tube), lactulose and other laxatives should be held
+if .300 mL stool per day. Monitoring for hypernatremia that
+suggests dehydration and eﬀorts to prevent aspiration are
+critical.
+2. Use of rifaximin in ICU is of limited value especially in patients
+who are already on broad-spectrum antibiotics. A recent doubleblind trial of patients with OHE admitted to the ICU showed
+that reversal of OHE was similar in the group on antibiotics
+alone when compared with antibiotics plus rifaximin (172).
+3. Use of nontraditional therapies for HE. Ammonia is a small
+molecule, water soluble, and not signiﬁcantly protein-bound;
+therefore, it is highly dialyzable. Early start of renal replacement
+therapy for hyperammonemia (level .100 μmol/L) may have
+a beneﬁcial role in patients with acute liver failure (8) or for
+patients with urea cycle disorders (173), but there are insuﬃcient
+data to support its use for patients with cirrhosis, solely for the
+purpose of decreasing serum ammonia. High-volume plasma
+exchange may improve HE and have survival beneﬁt in patients
+with acute liver failure (174), but this is not demonstrated in
+patients with cirrhosis. Albumin dialysis (molecular adsorbent
+recirculating system) has been shown to reduce the grade of HE in
+cirrhosis and potentially bridge to transplant (175), but further
+studies are necessary to deﬁne its impact and role in HE
+management.
+
+NONRESPONSE TO HE THERAPY
+Improvement in mental status with ﬁrst-line treatment is
+expected within 24–48 hours. If there is nonresponse with persistence of delirium after 48 hours despite optimal bowel movements and treatment of precipitating factors, the patients should
+be re-evaluated for other causes of altered mentation (Figure 9):
+1. Explore an alternate diagnosis: In clinical practice, ammonia
+levels are checked haphazardly by varying healthcare
+providers, and if the levels are normal, alternative causes of
+altered mentation should be investigated. Low or normal
+ammonia levels in patients with cirrhosis have a negative
+predictive value for HE being the cause of altered mentation.
+Recent head trauma, falls, seizures, and/or surgeries should all
+be considered in the diﬀerential diagnosis after all of the
+potential precipitants have been investigated.
+2. Determine undiagnosed precipitants: Healthcare providers
+should monitor blood work for electrolyte disorders and renal
+failure, take a thorough history regarding central acting
+medications or recreational drugs (while verifying with urine
+drug screen and phosphatidylethanolamine testing), clinically be
+aware of any overt GI bleeding that can be therapeutically
+addressed; however, it is important to always search for an
+infectious etiology (pan culture, perform paracentesis, and chest
+x-ray) if there is nonresponse within 48 hours of lactulose 6
+rifaximin treatment for HE, because in this speciﬁc setting,
+OHE will not improve unless directed treatment toward speciﬁc
+infections are targeted. Furthermore, cross-sectional imaging can
+help aid in the diagnosis of prior transjugular portosystemic shunt
+(TIPS) placement vs having spontaneous portosystemic shunts
+(SPSSs) that could be investigated in the appropriate clinical
+setting (see point 3 below) in nonresponse to standard treatments.
+The American Journal of GASTROENTEROLOGY
+
+3. Identify impact of other factors such as portosystemic shunts
+(TIPS or spontaneous) which may require closure. Persistent
+encephalopathy despite appropriate medical treatment should
+always be investigated using cross-sectional imaging such as
+computed tomography or MRI (also mentioned in preventing
+recurrence). The incidence of SPSSs ranges from 46% to 71%
+in cases of HE refractory to medical therapy compared with
+14% without SPSS (176). Further details are in the section
+below focused on SPSS.
+
+PREVENTION OF HE RECURRENCE
+Recommendations
+10. After an initial episode of OHE, we recommend lactulose titrated
+to 2–3 soft bowel movements daily as outpatient first-line therapy
+for prevention of HE recurrence (strong recommendations, high
+certainty of evidence).
+11. In patients treated with lactulose for HE, we suggest using the
+Bristol Stool Scale with bowel movement frequency for the
+outpatient titration of lactulose to reduce readmissions
+(conditional recommendation, very low certainty of evidence).
+12. In patients with cirrhosis and OHE, we suggest rifaximin therapy
+in the outpatient setting to prevent HE recurrence (conditional
+recommendation, low certainty of evidence).
+13. In patients with OHE on lactulose maintenance therapy who
+experience recurrent episodes of HE, we recommend addition of
+rifaximin treatment (strong recommendation, high certainty of
+evidence).
+14. In patients with OHE and persistent symptoms despite lactulose
+and rifaximin therapy, we suggest the addition of zinc
+supplementation in those with low blood zinc levels (conditional
+recommendation, very low certainty of evidence).
+15. We suggest implementing health information technology
+interventions, when feasible, to optimize HE management
+(conditional recommendations, very low certainty of evidence).
+16. We suggest shunt embolization in patients with refractory HE on
+optimized medical therapy who have adequate hepatic function
+and no contraindications (conditional recommendation, very
+low certainty of evidence).
+
+Key concepts
+14. Serum ammonia levels should not be used to guide initiation or
+titration of HE therapies or in the evaluation of HE recurrence in
+the outpatient setting.
+15. A thorough review of medication lists in patients with HE should
+be performed to identify and minimize therapies that may affect
+mental status assessment or risk of encephalopathy (e.g.,
+opiates, benzodiazepines, antiepileptic pain medications
+[gabapentin and pregabalin], sleep medications [zolpidem,
+zaleplon, and eszopiclone], and proton pump inhibitors).
+16. HE therapy may be deescalated and potentially discontinued in
+a stepwise fashion in patients who clinically recompensate.
+17. Oral and written advice to avoid driving should be given to
+patients and caregivers based on expert consensus in patients
+with recent (,3 months) episodes of OHE.
+18. All patients with HE and their caregivers should receive HEbased educational materials (e.g., www.cirrhosiscare.ca).
+19. Caregivers should be screened for caregiver burnout and
+provided necessary support as appropriate.
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Figure 10. Proposed flowchart to prevent HE-related recurrences. HE, hepatic encephalopathy.
+
+The risk of recurrence of OHE after an index episode is signiﬁcant, with approximately 40%–60% of patients experiencing
+a second episode within 1 year (153,177). Secondary prophylaxis
+is therefore indicated in all patients with cirrhosis who develop
+OHE. These include medication and supportive nonmedication
+approaches. It is important to consider the social infrastructure
+for HE or the ﬁfth axis in this setting, to ensure adequate
+implementation of the medical plans (Figure 10).
+Medications
+
+Lactulose has been demonstrated to signiﬁcantly decrease the risk
+of recurrence of HE compared with placebo (150,153,177). To
+prevent recurrence, lactulose dosing and frequency are typically
+titrated to 2–3 soft bowel movements daily to ensure eﬃcacy
+while avoiding diarrhea-associated hypovolemia. Adverse events
+in this setting are generally mild and include nausea, bloating,
+ﬂatulence, and diarrhea. However, breakthrough episodes of HE
+in patients being prescribed lactulose are commonly attributed to
+nonadherence or dehydration (156). Incorporation of the Bristol
+© 2026 by The American College of Gastroenterology
+
+Stool Scale (BSS) removes the focus from having the 2–3 daily
+bowel movement frequency to the characteristics of these bowel
+movements. Use of BSS has been shown to complement goal daily
+bowel movements in stabilizing lactulose regimens and improving patient adherence to therapy (154). There are apps that can
+assist with monitoring the number of daily bowel movements
+(178). Artiﬁcial intelligence-enabled apps using standardized
+assessment of stool target based on BSS can provide just-in-time
+feedback on lactulose dosing suﬃciency (179,180). Typically,
+a score of 5 or more on the BSS would require cutting down on
+lactulose or suggest the need to add rifaximin in those already on
+lactulose. If BSS is $5 even before lactulose initiation, then these
+patients should be considered for alternative, nonlaxative therapies de novo to ensure adherence.
+Rifaximin is a nonsystemic antibiotic that has broad activity
+against aerobic and anaerobic bacteria and thereby modulates the
+bacterial composition of the intestinal microbiota (162). It has
+been approved by the US Food and Drug Administration for the
+reduction in risk of OHE recurrence in adults at a dose of 550 mg
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+603
+
+604
+
+Bajaj et al
+
+twice daily. A RCT compared rifaximin with placebo in 299
+patients with cirrhosis and $2 episodes of OHE in the preceding
+6 months who were in remission at trial entry, 91% of which were
+concomitantly taking lactulose. After 6 months of therapy, the
+rifaximin-treated patients had a 58% risk reduction (number
+needed to treat 4) in experiencing a breakthrough episode of OHE
+and a 50% risk reduction (number needed to treat of 9) in experiencing an HE-related hospitalization (161). A subsequent
+systematic review and meta-analysis that included 17 RCTs
+conﬁrmed that rifaximin therapy was beneﬁcial regarding secondary prevention of HE (181). In a recent post hoc subgroup
+analysis of a phase 3 RCT, rifaximin plus lactulose was more
+eﬀective than lactulose alone in preventing the recurrence of OHE
+and HE-related hospitalization (182). Rifaximin monotherapy has
+been shown to eﬀectively maintain remission from HE and has
+been associated with a lower risk of hospitalization compared with
+lactulose monotherapy in small or retrospective studies
+(22,183,184). However, the preponderance of available evidence
+supports the superior eﬃcacy of rifaximin in combination with
+lactulose in patients who can tolerate dual therapy (163). Rifaximin
+is generally safe and well-tolerated compared with placebo in this
+population (161,163). A novel preparation of rifaximin soluble
+dispersion tablets is currently being investigated given its higher
+water solubility and less reliance on the presence of bile acids for
+action (137). The results of this RCT are currently pending.
+We need better adherence to HE quality care measures such as
+appropriate lactulose titration and rifaximin use (185,186). In
+2016, Tapper et al (187) published on the use of electronic order
+sets for spontaneous bacterial peritonitis management and appropriate lactulose titration and rifaximin use in 824 patients.
+Thirty-day readmissions were reduced by 40% as compared with
+the preintervention control period. A subsequent study by
+Louissaint et al evaluated a more active interruptive best practice
+alert-based strategy to advise rifaximin use for patients with HE
+on lactulose. Although rifaximin prescription rates remained
+high and stable (74%) on GI/hospitalist-based services, on nonGI/nonhospitalist services, the rifaximin prescriptions increased
+from 52.6% to 71.1%. The intervention was also associated with
+a signiﬁcantly reduced readmission risk (subdistribution hazard
+ratio of 0.77, [95% CI 0.67–0.95]) (188).
+Given the role of gut microbiota in the pathophysiology of HE,
+there is interest in the use of fecal microbiota transplant (FMT)
+for HE prevention. Enema-based FMT was evaluated in a 20person phase 1 trial after antibiotics vs standard of care, which
+showed safety and a reduction in HE recurrence at 6 and
+12 months (189). This was followed by a capsule-based FMT
+without pre-FMT antibiotics was evaluated in another 20-person
+phase 1 trial (190) and an open-label single-arm trial (191). Both
+of these conﬁrmed potential safety and paved the way for larger
+trials. The THEMATIC trial, a larger phase 2a dose-ranging
+double-blind trial in patients on lactulose and rifaximin that
+tested capsule or enema routes, FMT was safe and associated with
+reduced HE recurrence compared with placebo (192). The speciﬁc route or dose was not contributory toward protection from
+recurrence. In general, results seem to suggest beneﬁts; however,
+all FMT for HE should be conﬁned to clinical trials at this time.
+Zinc has been studied as a treatment for HE given its role as
+a cofactor in nitrogen metabolism. Zinc deﬁciency decreases the
+eﬃciency of the urea cycle and has been implicated in the pathogenesis of HE among aﬀected patients with cirrhosis (139,193).
+Overall results regarding the eﬃcacy of zinc treatment for HE
+The American Journal of GASTROENTEROLOGY
+
+have been conﬂicting. However, zinc seems to be a safe adjunctive
+therapy that may improve cognitive function when added to
+lactulose in HE (194,195).
+Several medications have been identiﬁed as precipitants of HE
+events or as increasing the risk of HE (196). Central nervous
+system depressant medications may exacerbate the neurotoxicity
+of ammonia (140). Opioids also impair intestinal motility, enabling more ammonia to be absorbed into the bloodstream, and
+have been shown to increase the risk of HE in patients with
+cirrhosis (197,198). Benzodiazepine use has been associated with
+HE-related hospitalization and increased healthcare utilization
+among patients with cirrhosis (196,199). Gabapentin and its related
+medications that act through the gamma aminobutyric acid (GABA)
+neurotransmitter pathway are similarly expected to increase this risk
+of HE (196). The sleep aid zolpidem, a nonbenzodiazepine that also
+acts through GABAergic neurotransmission, has been associated
+with HE as well as falls in patients with HE (200,201). Beyond sedating medications, numerous studies have demonstrated that
+proton pump inhibitor use increases the risk of HE (202–205). This
+consequence of proton pump inhibitor therapy in cirrhosis is likely
+related to alterations in gut microbiota resulting from gastric acid
+suppression (206). Deprescribing exacerbating medications should
+be approached in a coordinated and multidisciplinary fashion by all
+relevant providers in conjunction with an informed discussion with
+the patient with HE (207).
+Although rare, certain decompensated cirrhosis patients who
+fully recompensate with cure or suppression of the underlying
+etiology of their cirrhosis may no longer require secondary prophylaxis against HE (208,209). Recompensation outside of HE
+involves resolution of ascites oﬀ diuretics and the absence of
+variceal bleeding for 12 months in addition to demonstrated
+improvement of liver function including serum albumin, international normalized ratio, and total bilirubin (210). If such
+a patient has no signs of symptoms of HE while on therapy, HEdirected medications may be discontinued sequentially while
+monitoring closely for recurrence.
+Adherence to an HE regimen depends in large part on social
+determinants of health and patient access to prescribed medications
+(211) given that the cost of rifaximin remains signiﬁcant. Providers
+should therefore assess aﬀordability of HE therapy on a per patient
+basis, particularly as even brief lapses in rifaximin therapy have been
+associated with readmissions for HE after an initial HE hospitalization
+(22). In addition to adequate medications, other approaches to prevent
+HE recurrence need to be instituted. There are multiple forms of
+psychosocial interventions, checklists, and App-based interventions
+(178,186,188,212,213). These include the Patient Buddy App, which
+has been used in clinical trials to increase adherence and reduce HErelated readmissions through increasing communication between the
+study team and the patients and their families (178,213).
+Caregivers should be engaged and educated. Patient and
+caregiver knowledge of HE has been found to be low across
+multiple studies (214–219). There is improvement in this
+knowledge using educational interventions ranging from booklets to multimedia material (216–218,220,221). Most patients and
+caregivers are interested in receiving educational interventions
+(222,223). Caregiver burden is considerable, which is identiﬁed
+using methods such as Zarit Burden Interview short and long
+forms (24,224–231). HE-based educational materials should be
+provided to all patients with HE and their caregivers. The patient
+codeveloped HE educational material can be found at https://
+cirrhosiscare.ca/confusion/ (212,232).
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Screening results from these tools should guide additional
+evaluation and support requirements including consultation of
+palliative care and/or social work professionals (224). Deterioration of driving skills in patients with HE has a signiﬁcant
+impact on both patients and caregivers; driving history should be
+obtained at clinic visits, and counseling and possible interventions should be discussed with patient/caregivers. As per
+a recent International Society for Hepatic Encephalopathy and
+Nitrogen Metabolism consensus, oral and written advice to avoid
+driving should be given to patients and caregivers based on expert
+consensus only in patients with recent (,3 months) episodes of
+OHE (28).
+Coping strategies are promising interventions to reduce the
+impact of HE on patient-reported and clinical outcomes. A prepost study suggests that mindfulness meditation can improve
+sleep and depressive symptoms for patients and caregivers alike
+(233). Meditation was also associated with improved quality of
+life and cramp severity for patients with HE suﬀering from lower
+body cramps (234). However, in a trial of meditative journaling
+for caregivers of patients with cirrhosis, there were inconsistent
+eﬀects on caregiver burden (235). Thirty patients with CHE were
+recruited for a trial of cognitive training using video games to
+assess the impact on cognitive function, health-related quality of
+life (HRQoL), and MRI features of brain injury. The eﬀects observed showed only partial improvements on functional MRI
+without positive eﬀects on HRQoL or cognitive function (236).
+Additional trials of mind-body methods remain warranted (237).
+SPSS investigation for nonresponse or multiple recurrences
+
+SPSSs occur in up to 60% of people with cirrhosis. They are
+a marker of clinically signiﬁcant portal hypertension and predict
+clinical decompensation as well as an increased risk of recurrent
+HE (50,238,239). The mechanism of action is a “ﬂow steal”
+phenomenon where shunting of the blood into the systemic circulation occurs, bypassing the liver, thereby decreasing hepatic
+clearance of neurotoxins. This occurs in a stepwise fashion, where
+there is an early course (patients are asymptomatic with good
+hepatic reserve), and over time, a later course ensues (patients get
+OHE), and once it progresses to end stage (hepatic atrophy with
+poor hepatic reserve 6 portal vein thrombosis), patients have
+recurrent HE readmissions while on optimal medical therapy.
+Therefore, in patients with refractory HE, evaluation for SPSS
+should be sought and in the right clinical setting (MELD usually ,15), embolization should be considered (especially if shunts
+are $ 8 mm diameter) (240).
+In patients with recurrent or persistent HE despite adequate
+medical treatment, cross-sectional imaging should be performed
+to evaluate for SPSS (241). Two retrospective cohort studies
+support a reduction in HE with obliteration of accessible portosystemic shunts, the earliest series noting that 59.4% remained
+HE free within 100 days after embolization (176,242). In that
+series, logistic regression identiﬁed the MELD score as the
+strongest predictive factor of HE recurrence, leading to a recommendation for a MELD cutoﬀ of #11 for patient selection (176).
+Closure of shunts can be considered at the time of TIPS to reduce
+the risk of HE. A reduced risk HE was observed in a meta-analysis
+of small cohort studies and 2 small randomized trials of simultaneous shunt closure (243). This eﬀect was also observed in
+a large retrospective cohort where 8 mm TIPS was used (244). It is
+unclear if these data can be generalized to patients for whom TIPS
+is considered for ascites. Postembolization, consideration should
+© 2026 by The American College of Gastroenterology
+
+be given to re-evaluation of HE symptoms, laboratory test results
+and liver doppler ultrasound in 1 month (assess for thrombosis,
+development of ascites), repeat upper endoscopy in 6 months’
+time (assess for de novo or worsening esophageal varices), and
+repeat cross-sectional imaging in 1 year (assess for new SPSS
+development) (239). Embolization can also be performed using
+endoscopic ultrasound if needed (245). All decisions for embolization should be made in concert with a multidisciplinary team
+inclusive of hepatology and radiology because this could increase
+the formation of varices and ascites.
+
+FRAILTY, SARCOPENIA, NUTRITION, AND HE
+Recommendations
+17. We recommend a protein intake target of 1.2–1.5 g/kg/d in
+outpatients with HE (strong recommendation, moderate
+certainty of evidence).
+18. We recommend BCAA supplementation in individuals with HE if
+protein needs cannot be met by food alone (strong
+recommendation, moderate certainty of evidence).
+19. We suggest a late-night snack for patients with cirrhosis to
+reduce frailty and HE (conditional recommendation, very low
+certainty of evidence).
+20. We suggest against protein restriction in patients with HE
+because it increases muscle breakdown and does not reduce
+the duration of HE (conditional recommendation, very low
+certainty of evidence).
+21. We suggest exercise interventions in patients with HE to reduce
+the risk for falls, lower portal pressure, and increase the capacity
+of skeletal muscle for ammonia metabolism (conditional
+recommendation, low certainty of evidence).
+
+Key concepts
+20. All patients with HE (including those with MHE/CHE) should be
+evaluated for impaired muscle health/physical fitness using
+available tools (e.g., sarcopenia/myosteatosis, skeletal muscle
+strength, physical function, and frailty or cardiorespiratory
+fitness) because these are all important targets of HE therapy.
+21. Patients with impaired muscle health/physical fitness in any of its
+clinical presentations (i.e., sarcopenia, physical frailty, and
+deconditioning), and patients with myosteatosis (fat infiltration
+into muscle), have an increased risk for HE.
+22. Critically ill patients with HE should receive up to 2 g/kg/d protein
+intake.
+23. Although sarcopenia is not by itself an indication or
+a contraindication for TIPS, it could be associated with increased
+post-TIPS HE and post-TIPS mortality.
+24. Increases in ammonia levels after anaerobiosis have not been
+associated with an elevated risk for HE and should not
+discourage clinicians from prescribing exercise for patients with
+cirrhosis.
+25. Patients with any form of HE may experience an increased risk of
+exercise-induced injury. Supervision by exercise professionals,
+caregivers, or other surrogates is key to prevent exercise-related
+adverse events.
+
+As a neuropsychiatric syndrome that considers motor skills
+and mobility function, it is not surprising to ﬁnd that there is
+a strong association between HE and muscle health/physical ﬁtness (246–249), and that physical and cognitive changes can
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+605
+
+606
+
+Bajaj et al
+
+occur simultaneously and progress or regress in parallel
+(250–252). Approximately 40%–50% of patients with HE have
+either sarcopenia or frailty, signiﬁcantly higher than expected by
+chance (253,254). Patients with cirrhosis and myosteatosis (fat
+inﬁltration into muscle) (255) are 2 times more likely to have
+a history of HE (32% vs 15% according to a systematic review of 6
+studies) (255). Furthermore, there is a strong association between
+cognitive and physical decline at the MHE/CHE stage, and they
+follow parallel and interdependent trajectories (i.e., cognitive
+decline potentiates physical decline and vice versa). Multiple
+pathophysiologic mechanisms link impaired muscle health and
+HE (i.e., muscle-brain axis), discovered after initial observations
+30 years ago (109,256). These include hyperammonemia-related
+changes, alterations in the microbiome (gut-muscle-brain axis),
+decreased glutamine synthetase scavenging of ammonia by
+skeletal muscle, chronic inﬂammation, and micronutrient deﬁciency (e.g., L-carnitine, thiamine, leucine, and zinc). Impaired
+muscle health leads to reductions in ammonia metabolism and
+hyperammonemia, which in turn can lead to further muscle
+loss (109).
+Given the important connection between muscle and HE, it is
+recommended that all patients with HE undergo assessment of
+muscle health/physical ﬁtness such as sarcopenia or physical frailty.
+The concepts of sarcopenia and frailty are blurred given their
+overlapping deﬁnitions and assessment tools (257). This overlap is
+particularly evident in composite metrics such as the European
+Working Group on Sarcopenia in Older People, the liver frailty
+index (LFI), or the short physical performance battery (258).
+Table 6 presents a practical toolbox for assessing muscle health and
+physical ﬁtness, while Supplementary Table S2 (Supplementary
+Digital Content 1, http://links.lww.com/AJG/D846) has a comprehensive summary of all major testing strategies. It is important to
+repeat these measures throughout the clinical course. The delta or
+diﬀerence between measurements carries signiﬁcant prognostic
+information (266,267) and can be more accurately captured using
+objective assessments as compared with subjectively scored frailty
+questionnaires. Objective measurement is also preferred over
+questionnaires about physical activity because patients tend to
+overestimate the activity performed (268,269). Protein needs are
+increased in patients with cirrhosis (270), studies identifying
+1.2 g/kg of protein per day as a threshold for a positive nitrogen
+balance (271,272). Target protein intake alongside target caloric
+intake with dietitian support has been associated with improved
+muscle mass and less OHE and MHE (273–275) (Supplementary
+Table S3, Supplementary Digital Content 1, http://links.lww.com/
+AJG/D846). Increased protein intake and the provision of a lateevening snack (LES) are associated with improved muscle health
+and reduced HE (276–279).
+Dietary counseling is key to achieve these goals (280,281).
+Cirrhosis results in a state of accelerated starvation because
+reductions in hepatic glycogen reserves force the body to rely on
+lipids and proteins for gluconeogenesis. As a result, fasting time
+should be minimized with frequent meals, LES, and early
+breakfast (273,276,277,282). Studies have associated a LES with
+improved nitrogen balance (276), total body protein stores (277),
+quality of life (277), and reduced HE compared with control
+conditions (relative risk 0.46, P 5 0.002) (278). Although the
+composition of an LES is not uniform, a combination of complex
+carbohydrates and protein is suggested (279).
+Branch-chained amino acids (BCAAs) (with or without agents
+to prevent cataplerosis, e.g., LOLA) and essential amino acids
+The American Journal of GASTROENTEROLOGY
+
+have been inconsistently linked to improvements in HE and
+muscle health/physical ﬁtness (283). Across a systematic review
+of 16 RCT evaluating BCAA in HE (12 OHE, 4 trials MHE),
+a signiﬁcant reduction in HE was seen over a follow-up duration
+ranging from 1 to 104 weeks (RR 0.73) (110,284). As BCAA are
+found in protein containing foods, long-term BCAA supplementation is not necessary unless needs cannot be met by food
+alone (284). However, a recent trial did not show a major impact
+of BCAAs (285).
+Small studies (10 patients or less) have evaluated the impact of
+vegetable-based protein, the majority demonstrating improvements including in psychometric testing, beneﬁcial EEG changes,
+and reduced serum ammonia (286–289). The substitution of
+a single meat-based meal with a vegan or vegetarian alternative
+was associated with decreased postprandial ammonia (290).
+Pathophysiologic rationale has included increased ﬁber and stool
+bulk, beneﬁcial alterations in the composition and activity of the
+intestinal microbiota allowing for increased ammonia excretion,
+and increases in arginine that facilitate urea synthesis (286).
+Other amino acid-based supplements have also been evaluated,
+with evolving evidence for HE reduction, including β-hydroxyβ-methylbutyrate (291,292), acetyl-L-carnitine (108), and
+L-ornithine L-aspartate (107,293). Probiotics were also found to
+decrease the risk of falls along with betterment of cognitive and
+physical ﬁtness metrics in one RCT (294).
+Measures to improve sarcopenia and frailty for HE
+
+Despite the multiple beneﬁts that exercise can bring to patients
+with cirrhosis and portal hypertension (Supplementary Table S4,
+Supplementary Digital Content 1, http://links.lww.com/AJG/
+D846), incorporating exercise to the HE therapeutic armamentarium has been met with skepticism. Most of the exercise clinical
+trials have included diet as a cointervention (237). As an example,
+in a recent meta-analysis, 90% of studies included a dietary maneuver (295). As such, it is recommended to coprescribe exercise
+with a nutritional regimen, with close monitoring of adherence,
+ideally through specialized (p)rehabilitation clinics (296).
+Regarding safety of exercise in patients with HE, hyperammonemia is an expected response to anaerobic exercising
+conditions (similarly to hyperlactatemia), but no OHE episodes
+were observed when studied systematically (297). Furthermore,
+exercise clinical trials have not reported on incidental OHE
+among exercisers—including a systematic review—even for
+patients with prior OHE or MHE at enrollment. Finally, narrative
+and systematic reviews have deemed exercise to be safe for
+patients with decompensated cirrhosis with no increased risk for
+exercise-related injuries (298,299). Notwithstanding, there is
+a potential risk of self-injury from the motor skills and response
+time limitations caused by any degree of HE (300). Thus, for
+patients with HE, it is of paramount importance for caregivers to
+make themselves available and provide support during exercise
+training. Their involvement increases adherence to an exercise/
+dietary prescription while decreasing the risk of self-injury/falls.
+Importantly, the 3 studies that assessed hepatic hemodynamics before and after an exercise 6 dietary intervention
+showed a reduced hepatic venous pressure gradient (301–303).
+As such, lifestyle modiﬁcation interventions focused on exercise/
+nutrition seem to stabilize portal hypertension and decrease its
+clinical burden. Exercise interventions also expose patients with
+HE to many comaneuvers that further support their cognitive
+health, such as mental engagement, attention shifts, social
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+Table 6. Practical strategies for testing skeletal muscle health and physical fitness
+Test
+
+Parameter description
+
+Benefits
+
+Caveats
+
+Association with HE
+
+Anatomic sarcopenia and myosteatosis
+CT/MRI from HCC
+surveillance studies
+
+Cross-sectional area or volume of
+all muscles at L2 or L3 (skeletal
+muscle index), psoas (PMI), or
+thigh
+
+Accurate
+SMI and psoas area are
+the most commonly
+studied
+
+Radiation 11 (CT)
+Postprocessing
+Cost
+
+Low SMI or PMI are associated with
+HE (259,260) and ↑ risk of
+incidental overt HE (246,261)
+
+MAMC
+
+Uses mid-arm circumference and
+triceps skinfold for calculation
+
+Bedside test
+
+Operator dependency
+Device cost 1
+
+Low handgrip associated with HE
+(262)
+
+Isometric strength
+
+Bedside test
+Easy to implement
+
+Device cost 1
+
+Low handgrip associated with HE
+(262,263) and ↑ risk of incidental
+overt HE (264)
+
+Slower gait associated with HE
+(265)
+
+Skeletal muscle strength
+Handgrip
+
+Measures of physical performance
+Gait speed
+
+Usual walking speed over a specific Bedside test
+distance
+Easy to implement
+
+Requires walking
+
+Balance
+
+Time (#10 sec) able to stand with
+feet together, in tandem, and
+semitandem
+
+Bedside test
+Easy to implement
+
+Requires ability to stand up Not studied
+
+Chair stands
+
+Time to execute x number of chair
+stands or number of chair stand
+per unit of time
+
+Bedside test
+Easy to implement
+
+Requires ability to stand up Longer time ↑ risk of incidental
+overt HE (15)
+
+TUG
+
+Time needed to stand up from
+a chair, walk 3 m, come back,
+and sit down again
+
+Bedside test
+Easy to implement
+
+Requires ability to stand up Prolonged TUG associated with HE
+(35)
+
+Handgrip 1 balance 1 chair
+stands
+
+Bedside test
+Easy to implement
+Improves with exercise
+
+Requires ability to stand up Low LFI ↑ risk of incidental overt HE
+Device cost 1
+(249)
+
+Composite scores
+LFI
+
+CT, computed tomography; HCC, hepatocellular cancer; HE, hepatic encephalopathy; LFI, liver frailty index; MAMC, mid arm muscle circumference; PMI, psoas muscle
+index; SMI, skeletal muscle index; TUG, timed up and go.
+
+contact, community exposure, and navigation. Furthermore, fatigue, which is associated with hyperammonemia, has been improved by exercise (302,304–306), along with vitality (303,307)
+and overall mental or physical health scores of SF-36 (308).
+However, this is not a consistent ﬁnding (301,309).
+In an RCT of 101 men with cirrhosis (80.5% Child Pugh B/C)
+and low testosterone levels, intramuscular testosterone undeconoate replacement resulted in improved glucose metabolism and
+increased muscle mass and decreased fat mass as evaluated using
+dual-energy x-ray absorptiometry. There were no signiﬁcant differences in the severity of HE during the study period, and mortality was also nonsigniﬁcant (310). A 2024 multicenter doubleblind phase 2 trial evaluated the impact of 24 weeks of the oral
+androgen receptor agonist ARA-LPCN 1148 in 29 male participants with sarcopenia and cirrhosis awaiting liver transplant.
+Signiﬁcant improvements were seen in sarcopenia as measured by
+the L3-skeletal muscle index, alongside less episodes of OHE as
+compared with placebo, but no change in the EncephalApp Stroop
+test as compared with placebo (311). Although these results are
+promising for muscle health and physical ﬁtness, clinical trials
+addressing OHE as an endpoint are still lacking.
+© 2026 by The American College of Gastroenterology
+
+Medical treatments being tested or not currently approved for
+HE are summarized in Table 7.
+
+HE IN THE CONTEXT OF TIPS
+Recommendations
+22. We recommend initiating rifaximin therapy 14 days before
+elective TIPS insertion and continuing for at least 6 months in
+patients with decompensated cirrhosis with or without a prior
+episode of OHE to decrease the risk of recurrent or de novo OHE
+(strong recommendation, moderate certainty of evidence).
+23. We suggest embolizing extrahepatic collaterals at the time of
+TIPS to reduce post-TIPS HE (conditional recommendation, low
+certainty of evidence).
+
+HE occurs in 30%–40% of patients after TIPS and is associated
+with poor HRQoL and prognosis (324,325). There is also refractory
+post-TIPS HE that occurs in 3%–7% of patients with most cases
+occurring when the portal-systemic gradient decreases by .60%
+post TIPS (326,327). There is no impact of systemic inﬂammation
+but some eﬀect of sarcopenia and pre-TIPS cognitive performance
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+607
+
+608
+
+Bajaj et al
+
+Table 7. Medical therapies under investigation or previously tested for HE
+Modality
+
+Potential mechanism of action
+
+Stages of HE tested
+
+Current stage of development
+
+More comments
+
+Gut-brain axis
+Rifaximin solid
+soluble dispersion
+(137)
+
+Altered microbial function and Prevention of HE development Phase 3 multicenter trial
+enhancement of bile acid
+Reduction in time spent
+topline results show no
+profiles
+confused inpatient HE
+significant effect on first HE
+prevention (360)
+
+Trials in decompensated cirrhosis
+to prevent further
+decompensation and first HE
+episode are negative
+
+Fecal microbiota
+transplant
+(189–192,312)
+
+Microbial structure and
+function change
+
+Prevention of HE recurrence
+
+Phase 1 to phase 2a
+
+Larger studies needed but signal
+for safety, cognitive
+improvement, and reduced HE
+recurrence
+
+Defined bacterial
+consortium (313)
+
+Microbial structure and
+function change
+
+Prevention of HE recurrence
+
+Phase 1
+
+Larger studies needed
+
+Rifamycin SV MMX
+(98)
+
+Microbial structure and
+function change
+
+Minimal HE
+
+Phase 2
+
+Improved sarcopenia,
+inflammation, and microbial
+profile but not cognitive testing
+
+Microbial structure and
+Probiotic mixtures
+function change
+(including mixtures
+known as VSL#3
+before)
+(100,101,314–316)
+
+Minimal/covert HE
+Prevention of overt HE
+
+Phase 2
+
+Not approved for HE; prevented
+readmissions
+
+Lactobacillus GG
+(317)
+
+Microbial structure and
+function change
+
+Minimal HE
+
+Phase 2
+
+Improved endotoxemia and
+microbial profile but not cognitive
+testing
+
+Androgen agonist
+
+Prevention of HE recurrence
+
+Phase 2
+
+Only for men with reduced HE
+recurrence
+
+Ornithine
+Ammonia scavenger
+phenylacetate (318)
+
+Inpatients with HE to reduce
+time spent in confusional
+state
+
+Phase 2
+
+Not effective but if limited to those
+with true hyperammonemia
+would be successful
+
+Glycerol
+phenylbutyrate
+(138)
+
+Ammonia scavenger
+
+Prevention of HE recurrence
+
+Phase 2
+
+Successful but not in those with
+concomitant rifaximin; not being
+developed further
+
+Anti-inflammatory
+Reduce endothelial
+dysfunction
+
+Minimal/covert HE
+Inpatient HE
+Prevention of overt HE
+
+Phases 2–3
+
+Not specifically approved for HE
+prevention or treatment
+
+GABA-A receptor-modulating
+steroid antagonist
+
+Minimal/covert HE
+
+Phase 2
+
+Reduced impact of sleepiness and
+fatigue
+
+Sarcopenia prevention
+LPCN 1148 (313)
+Ammonia scavenger
+
+Anti-inflammatory
+IV Albumin
+(167,319–322)
+Neuro-steroid alteration
+Golexanolone (323)
+
+HE, hepatic encephalopathy.
+
+in predicting the development of post-TIPS HE (328). There are
+multiple factors that inﬂuence the development of post-TIPS HE,
+including increased age, worse liver function, hyponatremia, preTIPS SPSSs, HE history, larger stent diameter, increased portal
+pressure gradient reduction, and sarcopenia (329). There is substantial literature evaluating the impact of sarcopenia on post-TIPS
+HE (330,331). TIPS can result in improvements in muscle mass
+(332) potentially on the basis of portal pressure reduction, ascites
+resolution, and improvements in dietary absorption. Those
+patients who improve their sarcopenia post-TIPS have a lower risk
+The American Journal of GASTROENTEROLOGY
+
+of HE postprocedure (333–336). Although further evaluation is
+required, body fat distribution may also play a role in post-TIPS HE
+with increased risk of HE seen in those with alterations in body fat
+distribution pre-TIPS (low visceral fat in males and low subcutaneous fat in females) (337), and a lower risk seen in those with
+improvements in the subcutaneous adipose tissue index (338).
+Preventing post-TIPS HE using lactulose or lactitol in smaller
+studies was unsuccessful compared with placebo (339). Embolization of extrahepatic collaterals may also decrease post-TIPS HE
+(243,244,340). However, a larger RCT with rifaximin pre-TIPS
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+was able to reduce post-TIPS HE occurrence signiﬁcantly over
+placebo (341). This study with prophylactic rifaximin involved
+mostly refractory ascites patients with alcohol use as the etiology.
+Once HE occurs, the treatment is similar to non-TIPS HE including lactulose and rifaximin. However, if unsuccessful or refractory, reducing the TIPS diameter through ballooning or
+placing a smaller TIPS within a TIPS can dramatically reduce the
+diameter and improve the cause of HE (326). Ultimately, liver
+tranplant (LT) should be considered in these patients if clinically
+appropriate.
+
+LIVER TRANSPLANT AND HE
+Recommendation
+24. For patients with multiple HE episodes and MELD score ,15,
+we suggest evaluating candidacy for living donor liver
+transplantation (conditional recommendation, low certainty of
+evidence).
+
+Key concepts
+26. Adding 4–5 MELD points regardless of the MELD score iteration
+used more accurately reflects the 90-day mortality of inpatient
+OHE and outpatient CHE.
+27. As multiple HE episodes lead to persistent cognitive impairment
+which may not recover after LT, early LT could have additional
+benefits to improve brain function.
+28. Early evaluation for liver transplantation should be considered in
+patients with high MELD3.0 scores, severe HE (grades III–IV), or
+frequent HE episodes, to improve long-term outcomes.
+29. Persistent confusion in an inpatient setting is a relative
+contraindication to transplant
+
+Since the changeover from the Child score to MELD and
+subsequent iterations for liver transplant priority in the
+United States, HE is not given extra priority points (342). The
+latest iteration of MELD, the MELD3.0, still does not take HE into
+account for organ allocation. This omission could lead to underestimation of the true illness of how chronic liver disease in
+patients with HE aﬀects their prioritization on the transplant
+waitlist. Although the prior HE guidelines state that HE alone is
+not considered an indication for LT unless it is associated with
+poor liver function (11), severe HE (grades 3–4) has been shown
+to signiﬁcantly increase 90-day waitlist mortality, independent of
+the MELD score (343,344). Further studies suggest that patients
+with MELD scores between 30 and 34 and severe HE have similar
+mortality rates to those with MELD scores $35 without HE,
+indicating that HE should be considered in the allocation system
+(343,345). Therefore, patients with HE should be referred for
+transplant evaluation.
+Therefore, although HE is not currently prioritized adequately
+in the MELD system, there is substantial evidence supporting its
+inclusion to better reﬂect the severity of liver disease and improve
+outcomes for these patients by improving the allocation system. A
+study by Lucidi et al found that incorporating HE into the original
+MELD score by the addition of 7 points in patients with HE
+optimally predicted 6-month mortality (346). Silvey et al also
+supported the addition of 4–5 points to the MELD3.0 score for
+patients with documented inpatient OHE to enhance mortality
+prediction (347). Although CHE is less severe than OHE, it has
+© 2026 by The American College of Gastroenterology
+
+independently been associated with poor survival and increased
+risk of hospitalization. Patidar et al found that patients with CHE
+had a higher risk of developing OHE, hospitalization, and death
+or transplant, even after controlling for MELD score and using
+critical ﬂicker frequency additional MELD points would be
+needed to counter the impact of HE exclusion (40,79). Therefore,
+it could be suggested that CHE also contributes to the overall
+severity of liver disease and should be considered in the prognostic assessment in conjunction with the MELD score.
+In addition to mortality, preserving brain function and daily
+function that would be lost with recurrent HE pre-LT, are major
+reasons for improving access to LT for patients with HE. Multiple
+HE episodes lead to cumulative and potentially irreversible cognitive deﬁcits (348–352). Patients with severe pretransplant HE
+(grades 3–4) have been shown to have lower overall post-LT
+survival compared with those without HE. This increased mortality is primarily observed within the ﬁrst year post-LT and is
+largely attributed to higher rates of infection-related deaths
+among patients with severe HE (353). Furthermore, severe pretransplant HE is associated with longer hospital stays post-LT,
+independent of other factors including the MELD score due to
+higher postoperative complications and morbidity (354). Neurological complications are also more common in these patients
+with higher risk for perioperative neurological events, such as
+altered mental status and seizures, which can further complicate
+recovery and prolong hospital stays (355,356). Despite overall
+improvements, a persistent deﬁcit can remain in patients with
+a history of OHE pre-LT particularly in domains such as attention, executive function, and psychomotor speed (355,356). It
+may also be observed that overall brain volume and function in
+pretransplant HE is associated with reduced brain volume and
+neuronal markers, which may not fully normalize post-LT (356).
+Hence, severe pre-LT HE could potentially lead to cognitive inﬂexibility and learning deﬁcits post LT. In one study, patients with
+HE showed impaired learning and cognitive ﬂexibility, which can
+improve post-LT but may not reach the levels seen in patients
+without HE (357). As transplantation is the only deﬁnitive
+treatment for HE, patients who are candidates should be
+promptly evaluated and consideration of transplant urgently
+discussed (8) because LT improves cognitive function (349). With
+early evaluation and listing in patients with frequent HE episodes,
+we could mitigate the high morbidity and healthcare burden
+(QoL) associated with recurrent HE, ultimately improving longterm outcomes (8,11).
+Operationalization of HE diagnosis is diﬃcult because of the
+subjective nature of the diagnosis. Studies have used cognitive
+testing and evidence of hospitalizations for inpatient HE management as benchmarks (79,346,347). However, more data are
+needed to address potential gaming of the system if additional
+points are awarded. Validated and reproducible inpatient diagnosis of HE is needed to ensure objectivity for transplant prioritization, and a recent study of natural language processing has
+shown promise (358). In addition, as recommended in the ACG
+ACLF guidelines, patients whose confusion does not get better
+despite adequate treatment are likely not appropriate candidates
+for LT due to a high potential of persistently poor brain recovery
+post-LT (171).
+An alternative to extra points for deceased donor liver transplant is living donor LT (LDLT), which could oﬀer a survival
+beneﬁt for patients with low MELD scores (359). This survival
+beneﬁt is particularly relevant for patients with recurrent HE
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+609
+
+610
+
+Bajaj et al
+
+because timely transplantation can prevent further cognitive
+decline and improve overall prognosis. Moreover, early transplantation in patients with frequent HE episodes can mitigate the
+high morbidity associated with recurrent HE, leading to better
+long-term cognitive outcomes and quality of life. Therefore, incorporating LDLT as a viable option for these patients can significantly enhance their chances of survival and recovery. LDLT could
+be considered for patients with multiple episodes of HE and low
+MELD scores to improve long-term outcomes, reduce mortality,
+and enhance quality of life.
+
+CONCLUSIONS
+HE in cirrhosis is a multiorgan disorder of gut-brain axis that has
+a major negative impact on patients, caregivers, medical systems,
+and society. The pathogenesis, symptoms, eﬀect on clinical and
+psychosocial function, and need for a multidisciplinary
+approach to manage this condition, are highlighted. Although
+current diagnostic and management strategies have made major
+strides, gaps remain in the appropriate identiﬁcation of HE and to
+treat patients who are not responsive to currently available
+therapies. In addition, the impact of HE on liver transplant eligibility needs further elucidation. Novel targets focused on the
+gut-brain axis, sarcopenia, ammonia, and brain neuro-steroids
+are being investigated.
+ACKNOWLEDGEMENTS
+We thank Nancy Reau for being the monitor for the ACG Practice
+Parameters Committee.
+
+3.
+4.
+5.
+
+6.
+7.
+8.
+9.
+10.
+11.
+
+12.
+13.
+14.
+15.
+
+CONFLICTS OF INTEREST
+
+Guarantor of the article: Jasmohan S. Bajaj, MD, MS, FACG.
+Speciﬁc author contributions: JSB conceptualized and was
+associated with all aspects. All authors contributed towards the
+writing and review of the guideline; RW and VC were GRADE
+experts.
+Financial support: None.
+Potential competing interests: JSB has received institutional grant
+support from Bausch, Grifols, and Sequana. ABJ has received
+consulting fees from Gilead Sciences, Inc., Ipsen, Salix
+Pharmaceuticals, and Mallinckrodt Pharmaceuticals; and has
+received speaking fees from Madrigal Pharmaceuticals, Salix
+Pharmaceuticals, and Mallinckrodt Pharmaceuticals. RSR has
+received institutional research support from Mallinckrodt
+Pharmaceuticals and Salix Pharmaceuticals. P-HC has received
+instituional research support from Gilead Sciences. RJW is
+a consultant for Gilead Sciences and Salix, and has received grant
+support from Durect Corperation, Madrigal Pharmaceuticals, and
+Thera Technologies. EBT has received consulting fees from
+Norvartis, Axcella, and Allergan; has served on advisory boards for
+Ipsen, Mallinckrodt, Bausch Health, Kaleido, Novo Nordisk; and has
+received unrestricted research grants from Gilead and Valeant. PT
+has received speakers fees from Abbvie. All other authors have no
+disclosures.
+
+16.
+17.
+18.
+
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+
+REFERENCES
+1.
+2.
+
+Guyatt G, Oxman AD, Akl EA, et al. GRADE guidelines: 1.
+Introduction-GRADE evidence proﬁles and summary of ﬁndings tables.
+J Clin Epidemiol 2011;64(4):383–94.
+Balshem H, Helfand M, Sch¨unemann HJ, et al. GRADE guidelines: 3.
+Rating the quality of evidence. J Clin Epidemiol 2011;64(4):401–6.
+
+The American Journal of GASTROENTEROLOGY
+
+26.
+27.
+
+Guyatt GH, Oxman AD, Vist GE, et al. GRADE: An emerging consensus
+on rating quality of evidence and strength of recommendations. BMJ
+2008;336(7650):924–6.
+Sultan S, Falck-Ytter Y, Inadomi JM. The AGA institute process for
+developing clinical practice guidelines part one: Grading the evidence.
+Clin Gastroenterol Hepatol 2013;11(4):329–32.
+Andrews JC, Sch¨unemann HJ, Oxman AD, et al. GRADE guidelines: 15.
+Going from evidence to recommendation-determinants of
+a recommendation’s direction and strength. J Clin Epidemiol 2013;
+66(7):726–35.
+H¨aussinger D, Dhiman RK, Felipo V, et al. Hepatic encephalopathy. Nat
+Rev Dis Primers 2022;8(1):43.
+Rose CF, Amodio P, Bajaj JS, et al. Hepatic encephalopathy: Novel insights into
+classiﬁcation, pathophysiology and therapy. J Hepatol 2020;73(6):1526–47.
+Acharya C, Bajaj JS. Hepatic encephalopathy and liver transplantation:
+The past, present, and future toward equitable access. Liver Transpl
+2021;27(12):1830–43.
+Bajaj JS. The three villages of hepatic encephalopathy. Am J
+Gastroenterol 2021;116(6):1184–6.
+European Association for the Study of the Liver. EASL clinical practice
+guidelines on the management of hepatic encephalopathy. J Hepatol
+2022;77(3):807–24.
+Vilstrup H, Amodio P, Bajaj J, et al. Hepatic encephalopathy in chronic
+liver disease: 2014 practice guideline by the American Association for the
+Study of Liver Diseases and the European Association for the Study of
+the Liver. Hepatology 2014;60(2):715–35.
+Kreuter MW, Thompson T, McQueen A, et al. Addressing social needs
+in health care settings: Evidence, challenges, and opportunities for public
+health. Annu Rev Public Health 2021;42:329–44.
+Sanyal AJ, Van Natta ML, Clark J, et al. Prospective study of outcomes in
+adults with nonalcoholic fatty liver disease. N Engl J Med 2021;385(17):
+1559–69.
+Gairing SJ, Schleicher EM, Galle PR, et al. Prediction and prevention of
+the ﬁrst episode of overt hepatic encephalopathy in patients with
+cirrhosis. Hepatol Commun 2023;7(4):e0096.
+Tapper EB, Zhao L, Nikirk S, et al. Incidence and bedside predictors of
+the ﬁrst episode of overt hepatic encephalopathy in patients with
+cirrhosis. Am J Gastroenterol 2020;115(12):2017–25.
+Tapper EB, Parikh ND, Sengupta N, et al. A risk score to predict the
+development of hepatic encephalopathy in a population-based cohort of
+patients with cirrhosis. Hepatology 2018;68(4):1498–507.
+Jones BI, Jenkins CA, Murphy D, et al. Predicting hepatic
+encephalopathy in patients with cirrhosis: A UK population–based
+study and validation of risk scores. Hepatol Commun 2023;7(11):e0307.
+GBD 2017 Cirrhosis Collaborators. The global, regional, and national
+burden of cirrhosis by cause in 195 countries and territories, 1990–2017:
+A systematic analysis for the Global Burden of Disease Study 2017.
+Lancet Gastroenterol Hepatol 2020;5(3):245–66.
+Afridi F, Mittal A, Pyrsopoulos N. Trends in mortality and health care
+burden of cirrhotic decompensation in hospitalized patients: A
+nationwide analysis. J Clin Gastroenterol 2023;57(7):743–7.
+Bajaj JS, Reddy KR, Tandon P, et al. The 3-month readmission rate
+remains unacceptably high in a large North American cohort of patients
+with cirrhosis. Hepatology 2016;64(1):200–8.
+Tapper EB, Halbert B, Mellinger J. Rates of and reasons for hospital
+readmissions in patients with cirrhosis: A multistate population-based
+cohort study. Clin Gastroenterol Hepatol 2016;14(8):1181–8.e2.
+Jesudian AB, Gagnon-Sanschagrin P, Heimanson Z, et al. Impact of rifaximin
+use following an initial overt hepatic encephalopathy hospitalization on
+rehospitalization and costs. J Med Econ 2023;26(1):1169–77.
+Hareendran A, Devadas K, Sreesh S, et al. Quality of life, caregiver
+burden and mental health disorders in primary caregivers of patients
+with cirrhosis. Liver Int 2020;40(12):2939–49.
+Bajaj JS, Wade JB, Gibson DP, et al. The multi-dimensional burden of
+cirrhosis and hepatic encephalopathy on patients and caregivers. Am J
+Gastroenterol 2011;106(9):1646–53.
+Saleh ZM, Salim NE, Nikirk S, et al. The emotional burden of caregiving
+for patients with cirrhosis. Hepatol Commun 2022;6(10):2827–35.
+Fabrellas N, Moreira R, Carol M, et al. Psychological burden of hepatic
+encephalopathy on patients and caregivers. Clin Transl Gastroenterol
+2020;11(4):e00159.
+Louissaint J, Tapper EB. Hepatic encephalopathy: A diagnosis for the
+individual but an experience for the household. Clin Transl
+Gastroenterol 2020;11(5):e00181.
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+28. Bajaj JS, Lauridsen M, Tapper EB, et al. Important unresolved questions
+in the management of hepatic encephalopathy: An ISHEN consensus.
+Am J Gastroenterol 2020;115(7):989–1002.
+29. Reuter B, Walter K, Bissonnette J, et al. Assessment of the spectrum of hepatic
+encephalopathy: A multicenter study. Liver Transpl 2018;24(5):587–94.
+30. Jover R, Compañy L, Guti´errez A, et al. Minimal hepatic encephalopathy
+and extrapyramidal signs in patients with cirrhosis. Am J Gastroenterol
+2003;98(7):1599–604.
+31. Joebges EM, Heidemann M, Schimke N, et al. Bradykinesia in minimal
+hepatic encephalopathy is due to disturbances in movement initiation.
+J Hepatol 2003;38(3):273–80.
+32. Butz M, Timmermann L, Braun M, et al. Motor impairment in liver
+cirrhosis without and with minimal hepatic encephalopathy. Acta
+Neurol Scand 2010;122(1):27–35.
+33. Weissenborn K. The clinical relevance of minimal hepatic
+encephalopathy: A critical look. Dig Dis 2015;33(4):555–61.
+34. Ortiz M, C´ordoba J, Jacas C, et al. Neuropsychological abnormalities in
+cirrhosis include learning impairment. J Hepatol 2006;44(1):104–10.
+35. Nardelli S, Gioia S, Ridola L, et al. Risk of falls in patients with cirrhosis
+evaluated by timed up and go test: Does muscle or brain matter more?
+Dig Liver Dis 2022;54(3):371–7.
+36. Soriano G, Rom´an E, C´ordoba J, et al. Cognitive dysfunction in cirrhosis is
+associated with falls: A prospective study. Hepatology 2012;55(6):1922–30.
+37. Rom´an E, C´ordoba J, Torrens M, et al. Minimal hepatic encephalopathy
+is associated with falls. Am J Gastroenterol 2011;106(3):476–82.
+38. Wein C, Koch H, Popp B, et al. Minimal hepatic encephalopathy impairs
+ﬁtness to drive. Hepatology 2004;39(3):739–45.
+39. Bajaj JS, Saeian K, Schubert CM, et al. Minimal hepatic encephalopathy
+is associated with motor vehicle crashes: The reality beyond the driving
+test. Hepatology 2009;50(4):1175–83.
+40. Patidar KR, Thacker LR, Wade JB, et al. Covert hepatic encephalopathy
+is independently associated with poor survival and increased risk of
+hospitalization. Am J Gastroenterol 2014;109(11):1757–63.
+41. Wang J, Deng MJ, Shi PM, et al. Covert hepatic encephalopathy is
+associated with aggressive disease progression and poor survival in
+patients with cirrhosis. J Dig Dis 2023;24(12):681–90.
+42. Thomsen KL, Macnaughtan J, Tritto G, et al. Clinical and
+pathophysiological characteristics of cirrhotic patients with grade 1 and
+minimal hepatic encephalopathy. PLoS One 2016;11:e0146076.
+43. American Association for the Study of Liver Diseases; European
+Association for the Study of the Liver. Hepatic encephalopathy in
+chronic liver disease: 2014 practice guideline by the European
+Association for the Study of the Liver and the American Association for
+the Study of Liver Diseases. J Hepatol 2014;61(3):642–59.
+44. Lv XH, Lu Q, Deng K, et al. Prevalence and characteristics of covert/minimal
+hepatic encephalopathy in patients with liver cirrhosis: A systematic review
+and meta-analysis. Am J Gastroenterol 2024;119(4):690–9.
+45. Gairing SJ, Mangini C, Zarantonello L, et al. Prevalence of minimal
+hepatic encephalopathy in patients with liver cirrhosis: A multicenter
+study. Am J Gastroenterol 2023;118(12):2191–200.
+46. Bajaj JS, Etemadian A, Hafeezullah M, et al. Testing for minimal hepatic
+encephalopathy in the United States: An AASLD survey. Hepatology
+2007;45(3):833–4.
+47. Labenz C, Adarkwah CC, W¨orns MA, et al. Management of hepatic
+encephalopathy in Germany: A survey among physicians. Z
+Gastroenterol 2020;58(1):49–56.
+48. Miwa T, Hanai T, Nishimura K, et al. A simple covert hepatic
+encephalopathy screening model based on blood biochemical
+parameters in patients with cirrhosis. PLoS One 2022;17(11):e0277829.
+49. D’Amico G, Zipprich A, Villanueva C, et al. Further decompensation in
+cirrhosis: Results of a large multicenter cohort study supporting Baveno
+VII statements. Hepatology 2024;79(4):869–81.
+50. Sim´on-Talero M, Roccarina D, Martínez J, et al. Association between
+portosystemic shunts and increased complications and mortality in
+patients with cirrhosis. Gastroenterology 2018;154(6):1694–705.e4.
+51. Labenz C, Toenges G, Schattenberg JM, et al. Clinical predictors for poor
+quality of life in patients with covert hepatic encephalopathy. J Clin
+Gastroenterol 2019;53(7):e303–7.
+52. Buckholz A, Clarke L, Paik P, et al. Evaluating sleep in covert
+encephalopathy with wearable technology: Results from the WATCHES
+study. Hepatol Commun 2023;7(2):e0002.
+53. Labenz C, Baron JS, Toenges G, et al. Prospective evaluation of the
+impact of covert hepatic encephalopathy on quality of life and sleep in
+cirrhotic patients. Aliment Pharmacol Ther 2018;48(3):313–21.
+
+© 2026 by The American College of Gastroenterology
+
+54. Bajaj JS, Thacker LR, Leszczyszyn D, et al. Eﬀects of obstructive sleep
+apnea on sleep quality, cognition, and driving performance in patients
+with cirrhosis. Clin Gastroenterol Hepatol 2015;13(2):390–7.e1.
+55. Crespo J, Cifri´an J, Pinto JA, et al. Sleep apnea obstructive syndrome: A
+new complication previously undescribed in cirrhotic patients with
+ascites. Am J Gastroenterol 2003;98(12):2815–6.
+56. Flud CR, Duarte-Rojo A. Prognostic implications of minimal/covert
+hepatic encephalopathy: Large-scale validation cohort studies. J Clin
+Exp Hepatol 2019;9(1):112–6.
+57. Weissenborn K, Ennen JC, Schomerus H, et al. Neuropsychological
+characterization of hepatic encephalopathy. J Hepatol 2001;34(5):
+768–73.
+58. Romero G´omez M, C´ordoba J, Jover R, et al. Normality tables in the
+Spanish population for psychometric tests used in the diagnosis of
+minimal hepatic encephalopathy [in Spanish]. Med Clin (Barc) 2006;
+127(7):246–9.
+59. Amodio P, Campagna F, Olianas S, et al. Detection of minimal hepatic
+encephalopathy: Normalization and optimization of the Psychometric
+Hepatic Encephalopathy Score. A neuropsychological and quantiﬁed
+EEG study. J Hepatol 2008;49(3):346–53.
+60. Duarte-Rojo A, Estradas J, Hern´andez-Ramos R, et al. Validation of the
+psychometric hepatic encephalopathy score (PHES) for identifying
+patients with minimal hepatic encephalopathy. Dig Dis Sci 2011;56(10):
+3014–23.
+61. Allampati S, Duarte-Rojo A, Thacker LR, et al. Diagnosis of minimal
+hepatic encephalopathy using Stroop EncephalApp: A multicenter USbased, norm-based study. Am J Gastroenterol 2016;111(1):78–86.
+62. Bajaj JS, O’Leary JG, Jakab SS, et al. Gut microbiome proﬁles to exclude
+the diagnosis of hepatic encephalopathy in patients with cirrhosis. Gut
+Microbes 2024;16(1):2392880.
+63. Duarte-Rojo A, Ruiz-Margain A, Macias-Rodriguez RU, et al. Clinical
+scenarios for the use of S100β as a marker of hepatic encephalopathy.
+World J Gastroenterol 2016;22(17):4397–402.
+64. Gairing SJ, Danneberg S, Kaps L, et al. Elevated serum levels of glial
+ﬁbrillary acidic protein are associated with covert hepatic
+encephalopathy in patients with cirrhosis. JHEP Rep 2023;5(4):100671.
+65. Stawicka A, Świderska M, Zbrze´zniak J, et al. Brain-derived
+neurotrophic factor as a potential diagnostic marker in minimal hepatic
+encephalopathy. Clin Exp Hepatol 2021;7(1):117–24.
+66. Kimer N, Gluud LL, Pedersen JS, et al. The Psychometric Hepatic
+Encephalopathy Syndrome score does not correlate with blood
+ammonia, endotoxins or markers of inﬂammation in patients with
+cirrhosis. Transl Gastroenterol Hepatol 2021;6:8.
+67. Li SW, Wang K, Yu YQ, et al. Psychometric hepatic encephalopathy
+score for diagnosis of minimal hepatic encephalopathy in China. World J
+Gastroenterol 2013;19(46):8745–51.
+68. Gundling F, Zelihic E, Seidl H, et al. How to diagnose hepatic
+encephalopathy in the emergency department. Ann Hepatol 2013;12(1):
+108–14.
+69. Ballester MP, Tranah TH, Balcar L, et al. Development and validation of
+the AMMON-OHE model to predict risk of overt hepatic
+encephalopathy occurrence in outpatients with cirrhosis. J Hepatol
+2023;79(4):967–76.
+70. Li X, Liu S, Guo Y, et al. Detection of minimal hepatic encephalopathy in
+patients with cirrhosis based on the Stroop-CN model (NCRCIDCHESS 2106): A prospective multicenter study. MedComm (2020)
+2024;5(8):e627.
+71. Cunha-Silva M, Neto FLP, de Ara´ujo PS, et al. EncephalApp Stroop Test
+validation for the screening of minimal hepatic encephalopathy in
+Brazil. Ann Hepatol 2022;27(1):100543.
+72. Kaps L, Hildebrand K, Nagel M, et al. Validation of
+EncephalApp_Stroop as screening tool for the detection of minimal
+hepatic encephalopathy in German patients with liver cirrhosis. Clin Res
+Hepatol Gastroenterol 2022;46(4):101873.
+73. Acharya C, Shaw J, Duong N, et al. QuickStroop, a shortened version of
+EncephalApp, detects covert hepatic encephalopathy with similar
+accuracy within one minute. Clin Gastroenterol Hepatol 2023;21(1):
+136–42.
+74. Labenz C, Gairing SJ, Kaps L, et al. QuickStroop for screening for
+minimal hepatic encephalopathy in patients with cirrhosis. JHEP Rep
+2025;7(3):101298.
+75. Campagna F, Montagnese S, Ridola L, et al. The animal naming test: An
+easy tool for the assessment of hepatic encephalopathy. Hepatology
+2017;66(1):198–208.
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+611
+
+612
+
+Bajaj et al
+
+76. Labenz C, Toenges G, Schattenberg JM, et al. Outcome prediction of
+covert hepatic encephalopathy in liver cirrhosis: Comparison of four
+testing strategies. Clin Transl Gastroenterol 2020;11(6):e00172.
+77. Tapper EB, Kenney B, Nikirk S, et al. Animal naming test is associated
+with poor patient-reported outcomes and frailty in people with and
+without cirrhosis: A prospective cohort study. Clin Transl Gastroenterol
+2022;13(1):e00447.
+78. Agarwal A, Taneja S, Chopra M, et al. Animal Naming Test: A simple
+and accurate test for diagnosis of minimal hepatic encephalopathy and
+prediction of overt hepatic encephalopathy. Clin Exp Hepatol 2020;6(2):
+116–24.
+79. Ampuero J, Sim´on M, Montoliú C, et al. Minimal hepatic encephalopathy
+and critical ﬂicker frequency are associated with survival of patients with
+cirrhosis. Gastroenterology 2015;149(6):1483–9.
+80. Ampuero J, Montoli´u C, Sim´on-Talero M, et al. Minimal hepatic
+encephalopathy identiﬁes patients at risk of faster cirrhosis progression.
+J Gastroenterol Hepatol 2018;33(3):718–25.
+81. Vutien P, Li R, Karkar R, et al. Evaluating a novel, portable, selfadministrable device (“beacon”) that measures critical ﬂicker frequency
+as a test for hepatic encephalopathy. Am J Gastroenterol 2023;118(6):
+1096–100.
+82. Torlot FJ, McPhail MJ, Taylor-Robinson SD. Meta-analysis: The
+diagnostic accuracy of critical ﬂicker frequency in minimal hepatic
+encephalopathy. Aliment Pharmacol Ther 2013;37(5):527–36.
+83. Sharma P, Sharma BC, Puri V, et al. Critical ﬂicker frequency: Diagnostic
+tool for minimal hepatic encephalopathy. J Hepatol 2007;47(1):67–73.
+84. Barone M, Shahini E, Iannone A, et al. Critical ﬂicker frequency test
+predicts overt hepatic encephalopathy and survival in patients with liver
+cirrhosis. Dig Liver Dis 2018;50(5):496–500.
+85. Duarte-Rojo A, Allampati S, Thacker LR, et al. Diagnosis of covert
+hepatic encephalopathy: A multi-center study testing the utility of single
+versus combined testing. Metab Brain Dis 2019;34(1):289–95.
+86. Nadeem M, Tafader A, Park D, et al. A specialized HE testing clinic
+improves rational decision-making for therapy in cirrhosis. Hepatol
+Commun 2023;7(11):e0301.
+87. Sultanik P, Khelouﬁ L, Leproux A, et al. Other causes of neurocognitive
+impairment than covert hepatic encephalopathy (CHE) are very
+frequent, either alone or associated with CHE, in cirrhotic patients with
+cognitive complaints. Aliment Pharmacol Ther 2024;60(6):749–64.
+88. Corrias M, Turco M, Rui MD, et al. Covert hepatic encephalopathy:
+Does the mini-mental state examination help? J Clin Exp Hepatol 2014;
+4(2):89–93.
+89. Szymkowicz SM, May PE, Weeks JW, et al. Psychometric properties of
+the Montreal Cognitive Assessment (MoCA) in inpatient liver
+transplant candidates. Appl Neuropsychol Adult 2024;31(1):19–26.
+90. Bajaj JS, Duarte-Rojo A, Xie JJ, et al. Minimal hepatic encephalopathy
+and mild cognitive impairment worsen quality of life in elderly patients
+with cirrhosis. Clin Gastroenterol Hepatol 2020;18(13):3008–16.e2.
+91. Tapper EB, Ospina E, Salim N, et al. Lactulose therapy for patients with
+cirrhosis, portal hypertension, and poor patient-reported outcomes: The
+Mi-Kristal trial. Hepatology 2023;78(4):1159–67.
+92. Wang JY, Bajaj JS, Wang JB, et al. Lactulose improves cognition, quality
+of life, and gut microbiota in minimal hepatic encephalopathy: A
+multicenter, randomized controlled trial. J Dig Dis 2019;20(10):547–56.
+93. Moon AM, Kim HP, Jiang Y, et al. Systematic review and meta-analysis
+on the eﬀects of lactulose and rifaximin on patient-reported outcomes in
+hepatic encephalopathy. Am J Gastroenterol 2023;118(2):284–93.
+94. Luo M, Li L, Lu CZ, et al. Clinical eﬃcacy and safety of lactulose for
+minimal hepatic encephalopathy: A meta-analysis. Eur J Gastroenterol
+Hepatol 2011;23(12):1250–7.
+95. Prasad S, Dhiman RK, Duseja A, et al. Lactulose improves cognitive
+functions and health-related quality of life in patients with cirrhosis who
+have minimal hepatic encephalopathy. Hepatology 2007;45(3):549–59.
+96. Sidhu SS, Goyal O, Parker RA, et al. Rifaximin vs. lactulose in treatment
+of minimal hepatic encephalopathy. Liver Int 2016;36(3):378–85.
+97. Sidhu SS, Goyal O, Mishra BP, et al. Rifaximin improves psychometric
+performance and health-related quality of life in patients with minimal
+hepatic encephalopathy (the RIME Trial). Am J Gastroenterol 2011;
+106(2):307–16.
+98. Bajaj JS, Fagan A, Gavis EA, et al. The RIVET RCT: Rifamycin SV
+MMX improves muscle mass, physical function, and ammonia in
+cirrhosis and minimal encephalopathy. Hepatol Commun 2024;8(2):
+e0384.
+
+The American Journal of GASTROENTEROLOGY
+
+99. Bajaj JS, Heuman DM, Wade JB, et al. Rifaximin improves driving
+simulator performance in a randomized trial of patients with minimal
+hepatic encephalopathy. Gastroenterology 2011;140(2):478–87.e1.
+100. Mittal VV, Sharma BC, Sharma P, et al. A randomized controlled trial
+comparing lactulose, probiotics, and L-ornithine L-aspartate in
+treatment of minimal hepatic encephalopathy. Eur J Gastroenterol
+Hepatol 2011;23(8):725–32.
+101. Sharma P, Sharma BC, Puri V, et al. An open-label randomized
+controlled trial of lactulose and probiotics in the treatment of minimal
+hepatic encephalopathy. Eur J Gastroenterol Hepatol 2008;20(6):
+506–11.
+102. Liu Q, Duan ZP, Ha DK, et al. Synbiotic modulation of gut ﬂora: Eﬀect
+on minimal hepatic encephalopathy in patients with cirrhosis.
+Hepatology 2004;39(5):1441–9.
+103. Lauridsen MM, Mikkelsen S, Svensson T, et al. The continuous reaction
+time test for minimal hepatic encephalopathy validated by a randomized
+controlled multi-modal intervention-A pilot study. PLoS One 2017;
+12(10):e0185412.
+104. Janyajirawong R, Vilaichone RK, Sethasine S. Eﬃcacy of zinc
+supplement in minimal hepatic encephalopathy: A prospective,
+randomized controlled study (zinc-MHE trial). Asian Pac J Cancer Prev
+2021;22(9):2879–87.
+105. Burkard T, Biedermann A, Herold C, et al. Treatment with a potassiumiron-phosphate-citrate complex improves PSE scores and quality of life
+in patients with minimal hepatic encephalopathy: A multicenter,
+randomized, placebo-controlled, double-blind clinical trial. Eur J
+Gastroenterol Hepatol 2013;25(3):352–8.
+106. Gao J, Nie R, Chang H, et al. A meta-analysis of microbiome therapies for
+hepatic encephalopathy. Eur J Gastroenterol Hepatol 2023;35(9):
+927–37.
+107. He Q, Mao C, Chen Z, et al. Eﬃcacy of L-ornithine L-aspartate for
+minimal hepatic encephalopathy in patients with cirrhosis: A metaanalysis of randomized controlled trials. Arab J Gastroenterol 2024;
+25(2):84–92.
+108. Martí-Carvajal AJ, Gluud C, Arevalo-Rodriguez I, et al. Acetyl-Lcarnitine for patients with hepatic encephalopathy. Cochrane Database
+Syst Rev 2019;1:CD011451.
+109. Yoon EL, Ahn SB, Jun DW, et al. Eﬀect of L-carnitine on quality of life in
+covert hepatic encephalopathy: A randomized, double-blind, placebocontrolled study. Korean J Intern Med 2022;37(4):757–67.
+110. Gluud LL, Dam G, Les I, et al. Branched-chain amino acids for people
+with hepatic encephalopathy. Cochrane Database Syst Rev 2017;5:
+CD001939.
+111. Jain L, Sharma BC, Srivastava S, et al. Serum endotoxin, inﬂammatory
+mediators, and magnetic resonance spectroscopy before and after
+treatment in patients with minimal hepatic encephalopathy.
+J Gastroenterol Hepatol 2013;28(7):1187–93.
+112. Cai XJ, Wang L, Hu CM. Eﬃcacy of diﬀerent drugs in the treatment of
+minimal hepatic encephalopathy: A network meta-analysis involving
+826 patients based on 10 randomized controlled trials. J Cell Biochem
+2018;119:8336–45.
+113. Shi J, Li F. Clinical study of probiotics combined with lactulose for
+minimal hepatic encephalopathy treatment. Eur J Gastroenterol Hepatol
+2023;35(7):777–81.
+114. Katayama K, Saito M, Kawaguchi T, et al. Eﬀect of zinc on liver cirrhosis
+with hyperammonemia: A preliminary randomized, placebo-controlled
+double-blind trial. Nutrition 2014;30(11–12):1409–14.
+115. Sharma P, Sharma BC, Agrawal A, et al. Primary prophylaxis of overt
+hepatic encephalopathy in patients with cirrhosis: An open labeled
+randomized controlled trial of lactulose versus no lactulose.
+J Gastroenterol Hepatol 2012;27(8):1329–35.
+116. Zacharias HD, Zacharias AP, Gluud LL, et al. Pharmacotherapies that
+speciﬁcally target ammonia for the prevention and treatment of hepatic
+encephalopathy in adults with cirrhosis. Cochrane Database Syst Rev
+2019;6:CD012334.
+117. Deltenre P, Labenz C, Schuchmann M. Quality of life as a therapeutic
+objective in the management of hepatic encephalopathy and the
+potential role of rifaximin-α. Eur J Gastroenterol Hepatol 2021;33(1S
+Suppl 1):e1032–8.
+118. Smith ML, Wade JB, Wolstenholme J, et al. Gut microbiome-braincirrhosis axis. Hepatology 2024;80(2):465–85.
+119. Davis BC, Bajaj JS. Eﬀects of alcohol on the brain in cirrhosis: Beyond
+hepatic encephalopathy. Alcohol Clin Exp Res 2018;42(4):660–7.
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+120. Adejumo A, Noll A, Rogal SS, et al. Dementia frequently coexists with
+hepatic encephalopathy but not other cirrhosis complications in US
+veterans. Am J Gastroenterol 2023;118(3):475–80.
+121. Bajaj JS, Silvey SG, Rogal S, et al. Undiagnosed cirrhosis and hepatic
+encephalopathy in a national cohort of veterans with dementia. JAMA
+Netw Open 2024;7(1):e2353965.
+122. Bajaj JS, Gentili A, Wade JB, et al. Speciﬁc challenges in geriatric cirrhosis
+and hepatic encephalopathy. Clin Gastroenterol Hepatol 2022;20(8S):
+S20–9.
+123. Folstein MF, Folstein SE, McHugh PR. “Mini-mental state”. A practical
+method for grading the cognitive state of patients for the clinician.
+J Psychiatr Res 1975;12(3):189–98.
+124. Chung F, Yegneswaran B, Liao P, et al. STOP questionnaire: A tool to
+screen patients for obstructive sleep apnea. Anesthesiology 2008;108(5):
+812–21.
+125. Yu L, Buysse DJ, Germain A, et al. Development of short forms from the
+PROMIS sleep disturbance and Sleep-Related Impairment item banks.
+Behav Sleep Med 2011;10(1):6–24.
+126. Kroenke K, Spitzer RL, Williams JB. The PHQ-9: Validity of a brief
+depression severity measure. J Gen Intern Med 2001;16(9):606–13.
+127. Beck AT, Epstein N, Brown G, et al. An inventory for measuring clinical
+anxiety: Psychometric properties. J Consult Clin Psychol 1988;56(6):
+893–7.
+128. Blevins CA, Weathers FW, Davis MT, et al. The posttraumatic stress
+disorder checklist for DSM-5 (PCL-5): Development and initial
+psychometric evaluation. J Trauma Stress 2015;28(6):489–98.
+129. Skinner HA. The drug abuse screening test. Addict Behav 1982;7(4):
+363–71.
+130. Bush K, Kivlahan DR, McDonell MB, et al. The AUDIT alcohol
+consumption questions (AUDIT-C): An eﬀective brief screening test for
+problem drinking. Ambulatory Care Quality Improvement Project
+(ACQUIP). Alcohol Use Disorders Identiﬁcation Test. Arch Intern Med
+1998;158(16):1789–95.
+131. Tapper EB, Parikh ND, Green PK, et al. Reduced incidence of hepatic
+encephalopathy and higher odds of resolution associated with
+eradication of HCV infection. Clin Gastroenterol Hepatol 2020;18(5):
+1197–206.e7.
+132. Gairing SJ, Schleicher EM, Labenz C. Diabetes mellitus–risk factor and
+potential future target for hepatic encephalopathy in patients with liver
+cirrhosis? Metab Brain Dis 2023;38(5):1691–700.
+133. Bajaj JS, Wade JB, Sanyal AJ. Spectrum of neurocognitive impairment in
+cirrhosis: Implications for the assessment of hepatic encephalopathy.
+Hepatology 2009;50(6):2014–21.
+134. Conn HO, Bircher J. Hepatic Encephalopathy: Syndromes and
+Therapies. Medi-Ed Press: Bloomington, IL, 1994.
+135. Teasdale G, Jennett B. Assessment of coma and impaired consciousness.
+A practical scale. Lancet 1974;2(7872):81–4.
+136. Hassanein T, Blei AT, Perry W, et al. Performance of the hepatic
+encephalopathy scoring algorithm in a clinical trial of patients with
+cirrhosis and severe hepatic encephalopathy. Am J Gastroenterol 2009;
+104(6):1392–400.
+137. Bajaj JS, Hassanein TI, Pyrsopoulos NT, et al. Dosing of rifaximin soluble
+solid dispersion tablets in adults with cirrhosis: 2 randomized, placebocontrolled trials. Clin Gastroenterol Hepatol 2023;21(3):723–31.e9.
+138. Rockey DC, Vierling JM, Mantry P, et al. Randomized, double-blind,
+controlled study of glycerol phenylbutyrate in hepatic encephalopathy.
+Hepatology 2014;59(3):1073–83.
+139. Sundaram V, Shaikh OS. Hepatic encephalopathy: Pathophysiology and
+emerging therapies. Med Clin North Am 2009;93(4):819–36, vii.
+140. Tapper EB, Jiang ZG, Patwardhan VR. Reﬁning the ammonia
+hypothesis: A physiology-driven approach to the treatment of hepatic
+encephalopathy. Mayo Clin Proc 2015;90(5):646–58.
+141. Ong JP, Aggarwal A, Krieger D, et al. Correlation between ammonia
+levels and the severity of hepatic encephalopathy. Am J Med 2003;
+114(3):188–93.
+142. Bajaj JS, Pyrsopoulos NT, Rahimi RS, et al. Serum ammonia levels do not
+correlate with overt hepatic encephalopathy severity in hospitalized
+patients with cirrhosis. Clin Gastroenterol Hepatol 2024;22(9):
+1950–2.e1.
+143. Haj M, Rockey DC. Ammonia levels do not guide clinical management
+of patients with hepatic encephalopathy caused by cirrhosis. Am J
+Gastroenterol 2020;115(5):723–8.
+
+© 2026 by The American College of Gastroenterology
+
+144. Bajaj JS, Bloom PP, Chung RT, et al. Variability and lability of ammonia
+levels in healthy volunteers and patients with cirrhosis: Implications for
+trial design and clinical practice. Am J Gastroenterol 2020;115(5):783–5.
+145. Desplats V, Haudebourg L, Verger N, et al. Acute encephalopathy
+without hyperammonemia has a diﬀerent presentation than overt HE
+and displays a similarly severe prognosis. Hepatology 2025;82(6):
+1480–97.
+146. Rahimi RS, Rockey DC. Overuse of head computed tomography in
+cirrhosis with altered mental status. Am J Med Sci 2016;351(5):459–66.
+147. Yang DY, Bowron J, Ahmed M, et al. The usefulness of head computed
+tomography in patients with known cirrhosis presenting to emergency
+department with suspected hepatic encephalopathy. J Can Assoc
+Gastroenterol 2024;7(5):346–51.
+148. Donovan LM, Kress WL, Strnad LC, et al. Low likelihood of intracranial
+hemorrhage in patients with cirrhosis and altered mental status. Clin
+Gastroenterol Hepatol 2015;13(1):165–9.
+149. Hanna A, Gill I, Imam Z, et al. Low yield of head CT in cirrhotic patients
+presenting with hepatic encephalopathy. BMJ Open Gastroenterol 2021;
+8(1):e000609.
+150. Gluud LL, Vilstrup H, Morgan MY. Non-absorbable disaccharides
+versus placebo/no intervention and lactulose versus lactitol for the
+prevention and treatment of hepatic encephalopathy in people with
+cirrhosis. Cochrane Database Syst Rev 2016;2016(5):CD003044.
+151. Bloom PP, Tapper EB. Lactulose in cirrhosis: Current understanding of
+eﬃcacy, mechanism, and practical considerations. Hepatol Commun
+2023;7(11):e0295.
+152. Uribe M, Toledo H, Perez F, et al. Lactitol, a second-generation
+disaccharide for treatment of chronic portal-systemic encephalopathy.
+A double-blind, crossover, randomized clinical trial. Dig Dis Sci 1987;
+32(12):1345–53.
+153. Sharma BC, Sharma P, Agrawal A, et al. Secondary prophylaxis of
+hepatic encephalopathy: An open-label randomized controlled trial of
+lactulose versus placebo. Gastroenterology 2009;137(3):885–91, 891.e1.
+154. Duong NK, Shrestha S, Park D, et al. Bristol stool scale as a determinant
+of hepatic encephalopathy management in patients with cirrhosis. Am J
+Gastroenterol 2022;117(2):295–300.
+155. van der Spoel JI, Oudemans-van Straaten HM, Kuiper MA, et al.
+Laxation of critically ill patients with lactulose or polyethylene glycol: A
+two-center randomized, double-blind, placebo-controlled trial. Crit
+Care Med 2007;35(12):2726–31.
+156. Bajaj JS, Sanyal AJ, Bell D, et al. Predictors of the recurrence of hepatic
+encephalopathy in lactulose-treated patients. Aliment Pharmacol Ther
+2010;31(9):1012–7.
+157. Rahimi RS, Singal AG, Cuthbert JA, et al. Lactulose vs polyethylene
+glycol 3350--electrolyte solution for treatment of overt hepatic
+encephalopathy: The HELP randomized clinical trial. JAMA Intern Med
+2014;174(11):1727–33.
+158. Shehata HH, Elfert AA, Abdin AA, et al. Randomized controlled trial of
+polyethylene glycol versus lactulose for the treatment of overt hepatic
+encephalopathy. Eur J Gastroenterol Hepatol 2018;30(12):1476–81.
+159. Van Waes L, van Egmond J, Demeulenaere L. Emergency treatment of
+portal-systemic encephalopathy with lactulose enemas. A controlled
+study. Acta Clin Belg 1979;34(3):122–9.
+160. Uribe M, Campollo O, Vargas F, et al. Acidifying enemas (lactitol and
+lactose) vs. nonacidifying enemas (tap water) to treat acute portalsystemic encephalopathy: A double-blind, randomized clinical trial.
+Hepatology 1987;7(4):639–43.
+161. Bass NM, Mullen KD, Sanyal A, et al. Rifaximin treatment in hepatic
+encephalopathy. N Engl J Med 2010;362(12):1071–81.
+162. Bajaj JS. Review article: Potential mechanisms of action of rifaximin in
+the management of hepatic encephalopathy and other complications of
+cirrhosis. Aliment Pharmacol Ther 2016;43(Suppl 1):11–26.
+163. Zacharias HD, Kamel F, Tan J, et al. Rifaximin for prevention and
+treatment of hepatic encephalopathy in people with cirrhosis. Cochrane
+Database Syst Rev 2023;7:CD011585.
+164. Fu J, Gao Y, Shi L. Combination therapy with rifaximin and lactulose in
+hepatic encephalopathy: A systematic review and meta-analysis. PLoS
+One 2022;17(4):e0267647.
+165. Sharma BC, Sharma P, Lunia MK, et al. A randomized, double-blind,
+controlled trial comparing rifaximin plus lactulose with lactulose alone
+in treatment of overt hepatic encephalopathy. Am J Gastroenterol 2013;
+108(9):1458–63.
+
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+613
+
+614
+
+Bajaj et al
+
+166. Sharma BC, Singh J, Srivastava S, et al. Randomized controlled trial
+comparing lactulose plus albumin versus lactulose alone for treatment of
+hepatic encephalopathy. J Gastroenterol Hepatol 2017;32(6):1234–9.
+167. Sim´on-Talero M, García-Martínez R, Torrens M, et al. Eﬀects of intravenous
+albumin in patients with cirrhosis and episodic hepatic encephalopathy: A
+randomized double-blind study. J Hepatol 2013;59(6):1184–92.
+168. Guevara M, Baccaro ME, Torre A, et al. Hyponatremia is a risk factor of
+hepatic encephalopathy in patients with cirrhosis: A prospective study
+with time-dependent analysis. Am J Gastroenterol 2009;104(6):1382–9.
+169. Ullah H, Shabana H, Rady MA, et al. Hypokalemia as a responsible factor
+related with the severity of hepatic encephalopathy: A wide multination
+cross-sectional study. Ann Med Surg (Lond) 2023;85(6):2427–31.
+170. Xu L, Ying S, Hu J, et al. Pneumonia in patients with cirrhosis: Risk
+factors associated with mortality and predictive value of prognostic
+models. Respir Res 2018;19(1):242.
+171. Bajaj JS, O’Leary JG, Lai JC, et al. Acute-on-chronic liver failure clinical
+guidelines. Am J Gastroenterol 2022;117(2):225–52.
+172. Ward JA, Yerke J, Lumpkin M, et al. Evaluation of a protocol for
+rifaximin discontinuation in critically ill patients with liver disease
+receiving broad-spectrum antibiotic therapy. World J Hepatol 2023;
+15(11):1226–36.
+173. Tsai IJ, Hwu WL, Huang SC, et al. Eﬃcacy and safety of intermittent
+hemodialysis in infants and young children with inborn errors of
+metabolism. Pediatr Nephrol 2014;29(1):111–6.
+174. Kribben A, Gerken G, Haag S, et al. Eﬀects of fractionated plasma
+separation and adsorption on survival in patients with acute-on-chronic
+liver failure. Gastroenterology 2012;142(4):782–9.e3.
+175. Karvellas CJ, Subramanian RM. Current evidence for extracorporeal
+liver support systems in acute liver failure and acute-on-chronic liver
+failure. Crit Care Clin 2016;32(3):439–51.
+176. Laleman W, Simon-Talero M, Maleux G, et al. Embolization of large
+spontaneous portosystemic shunts for refractory hepatic
+encephalopathy: A multicenter survey on safety and eﬃcacy. Hepatology
+2013;57(6):2448–57.
+177. Agrawal A, Sharma BC, Sharma P, et al. Secondary prophylaxis of
+hepatic encephalopathy in cirrhosis: An open-label, randomized
+controlled trial of lactulose, probiotics, and no therapy. Am J
+Gastroenterol 2012;107(7):1043–50.
+178. Ganapathy D, Acharya C, Lachar J, et al. The patient buddy app can
+potentially prevent hepatic encephalopathy-related readmissions. Liver
+Int 2017;37(12):1843–51.
+179. Sordi Chara B, Hara KS, Penrice D, et al. Artiﬁcial intelligence–enabled stool
+analysis for lactulose titration assistance in hepatic encephalopathy through
+a smartphone application. Am J Gastroenterol 2024;119(5):982–6.
+180. Fagan A, Gallagher ML, Mousel T, et al. Artiﬁcial intelligence evaluation
+of stool quality guides management of hepatic encephalopathy using
+a smartphone app. Am J Gastroenterol 2024;119(5):977–81.
+181. Kimer N, Krag A, Møller S, et al. Systematic review with meta-analysis:
+The eﬀects of rifaximin in hepatic encephalopathy. Aliment Pharmacol
+Ther 2014;40(2):123–32.
+182. Sanyal AJ, Kowdley KV, Reau NS, et al. Rifaximin plus lactulose versus
+lactulose alone for reducing the risk of HE recurrence. Hepatol Commun
+2024;8(6):e0436.
+183. Neﬀ GW, Jones M, Broda T, et al. Durability of rifaximin response in
+hepatic encephalopathy. J Clin Gastroenterol 2012;46(2):168–71.
+184. Leevy CB, Phillips JA. Hospitalizations during the use of rifaximin versus
+lactulose for the treatment of hepatic encephalopathy. Dig Dis Sci 2007;
+52(3):737–41.
+185. Bajaj JS, O’Leary JG, Tandon P, et al. Targets to improve quality of care
+for patients with hepatic encephalopathy: Data from a multi-centre
+cohort. Aliment Pharmacol Ther 2019;49(12):1518–27.
+186. Sherman Z, Wahid N, Wagner M, et al. Integration of cirrhosis best
+practices into electronic medical record documentation associated with
+reduction in 30-day mortality following hospitalization. J Clin
+Gastroenterol 2023;57(9):951–5.
+187. Tapper EB, Finkelstein D, Mittleman MA, et al. A quality improvement
+initiative reduces 30-day rate of readmission for patients with cirrhosis.
+Clin Gastroenterol Hepatol 2016;14(5):753–9.
+188. Louissaint J, Grzyb K, Bashaw L, et al. An electronic decision support
+intervention reduces readmissions for patients with cirrhosis. Am J
+Gastroenterol 2022;117(3):491–4.
+189. Bajaj JS, Kassam Z, Fagan A, et al. Fecal microbiota transplant from
+a rational stool donor improves hepatic encephalopathy: A randomized
+clinical trial. Hepatology 2017;66(6):1727–38.
+The American Journal of GASTROENTEROLOGY
+
+190. Bajaj JS, Salzman NH, Acharya C, et al. Fecal microbial transplant
+capsules are safe in hepatic encephalopathy: A phase 1, randomized,
+placebo-controlled trial. Hepatology 2019;70(5):1690–703.
+191. Bloom PP, Donlan J, Torres Soto M, et al. Fecal microbiota transplant
+improves cognition in hepatic encephalopathy and its eﬀect varies by
+donor and recipient. Hepatol Commun 2022;6(8):2079–89.
+192. Bajaj JS, Fagan A, Gavis EA, et al. Microbiota transplant for hepatic
+encephalopathy in cirrhosis: The THEMATIC trial. J Hepatol 2025;
+83(1):81–91.
+193. Van der Rijt CC, Schalm SW, Schat H, et al. Overt hepatic
+encephalopathy precipitated by zinc deﬁciency. Gastroenterology 1991;
+100(4):1114–8.
+194. Chavez-Tapia NC, Cesar-Arce A, Barrientos-Guti´errez T, et al. A
+systematic review and meta-analysis of the use of oral zinc in the
+treatment of hepatic encephalopathy. Nutr J 2013;12:74.
+195. Shen YC, Chang YH, Fang CJ, et al. Zinc supplementation in patients
+with cirrhosis and hepatic encephalopathy: A systematic review and
+meta-analysis. Nutr J 2019;18(1):34.
+196. Tapper EB, Henderson JB, Parikh ND, et al. Incidence of and risk factors
+for hepatic encephalopathy in a population‐based cohort of Americans
+with cirrhosis. Hepatol Commun 2019;3(11):1510–9.
+197. Acharya C, Betrapally NS, Gillevet PM, et al. Chronic opioid use is
+associated with altered gut microbiota and predicts readmissions in
+patients with cirrhosis. Aliment Pharmacol Ther 2017;45(2):319–31.
+198. Moon AM, Jiang Y, Rogal SS, et al. Opioid prescriptions are
+associated with hepatic encephalopathy in a national cohort of
+patients with compensated cirrhosis. Aliment Pharmacol Ther 2020;
+51(6):652–60.
+199. Lee PC, Yang YY, Lin MW, et al. Benzodiazepine-associated hepatic
+encephalopathy signiﬁcantly increased healthcare utilization and
+medical costs of Chinese cirrhotic patients: 7-year experience. Dig Dis
+Sci 2014;59(7):1603–16.
+200. Nevo ON, Brinker AD, Diak IL, et al. Response to: Improvement of
+sleep architecture parameters in cirrhotic patients with recurrent
+hepatic encephalopathy with the use of rifaximin: Hepatic
+encephalopathy in association with zolpidem. Eur J Gastroenterol
+Hepatol 2017;29(9):1102–3.
+201. Tapper EB, Zhao Z, Winder GS, et al. Deprescribing zolpidem reduces
+falls and fractures in patients with cirrhosis. JHEP Rep 2022;4(6):100478.
+202. Ma YJ, Cao ZX, Li Y, et al. Proton pump inhibitor use increases hepatic
+encephalopathy risk: A systematic review and meta-analysis. World J
+Gastroenterol 2019;25(21):2675–82.
+203. Tsai CF, Chen MH, Wang YP, et al. Proton pump inhibitors increase risk
+for hepatic encephalopathy in patients with cirrhosis in a population
+study. Gastroenterology 2017;152(1):134–41.
+204. Shi D, Zhou Z, Dai Y, et al. Proton pump inhibitor therapy and hepatic
+encephalopathy risk in cirrhotic patients: A systematic review with
+meta-analysis. Clin Drug Investig 2019;39(9):847–56.
+205. Dam G, Vilstrup H, Watson H, et al. Proton pump inhibitors as a risk
+factor for hepatic encephalopathy and spontaneous bacterial peritonitis
+in patients with cirrhosis with ascites. Hepatology 2016;64(4):1265–72.
+206. Bajaj JS, Acharya C, Fagan A, et al. Proton pump inhibitor initiation and
+withdrawal aﬀects gut microbiota and readmission risk in cirrhosis. Am
+J Gastroenterol 2018;113(8):1177–86.
+207. Williams S, Louissaint J, Nikirk S, et al. Deprescribing medications that
+may increase the risk of hepatic encephalopathy: A qualitative study of
+patients with cirrhosis and their doctors. United European
+Gastroenterol J 2021;9(2):193–202.
+208. Aravinthan AD, Barbas AS, Doyle AC, et al. Characteristics of liver
+transplant candidates delisted following recompensation and predictors
+of such delisting in alcohol-related liver disease: A case-control study.
+Transpl Int 2017;30(11):1140–9.
+209. Pose E, Torrents A, Reverter E, et al. A notable proportion of liver
+transplant candidates with alcohol-related cirrhosis can be delisted
+because of clinical improvement. J Hepatol 2021;75(2):275–83.
+210. de Franchis R, Bosch J, Garcia-Tsao G, et al. Baveno VII: Renewing
+consensus in portal hypertension. J Hepatol 2022;76(4):959–74.
+211. Tapper EB, Essien UR, Zhao Z, et al. Racial and ethnic disparities in
+rifaximin use and subspecialty referrals for patients with hepatic
+encephalopathy in the United States. J Hepatol 2022;77(2):377–82.
+212. Carbonneau M, Eboreime EA, Hyde A, et al. The cirrhosis care Alberta
+(CCAB) protocol: Implementing an evidence-based best practice order
+set for the management of liver cirrhosis: A hybrid type I eﬀectivenessimplementation trial. BMC Health Serv Res 2020;20(1):558.
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+213. Shaw J, Acharya C, Fagan A, et al. Health information technology
+interventions reduce avoidable readmissions in cirrhosis: The HEROIC
+randomized controlled trial. Hepatology 2025.
+214. Albillos A, Martin-Mateos R, Van der Merwe S, et al. Cirrhosisassociated immune dysfunction. Nat Rev Gastroenterol Hepatol 2022;
+19(2):112–34.
+215. Ismond KP, Spiers JA, Tandon P. Identifying opportunities for hepatic
+encephalopathy self-management: A mixed methods systematic review
+and synthesis. Can Liver J 2023;6(2):215–33.
+216. Goldsworthy MA, Fateen W, Thygesen H, et al. Patient understanding of
+liver cirrhosis and improvement using multimedia education. Frontline
+Gastroenterol 2017;8(3):214–9.
+217. Beg S, Curtis S, Shariﬀ M. Patient education and its eﬀect on selfmanagement in cirrhosis: A pilot study. Eur J Gastroenterol Hepatol
+2016;28(5):582–7.
+218. Bloom PP, Che Z, Hyde A, et al. Development and evaluation of a patient
+cirrhosis knowledge assessment. Dig Dis Sci 2024;69(2):399–409.
+219. Volk ML, Fisher N, Fontana RJ. Patient knowledge about disease selfmanagement in cirrhosis. Am J Gastroenterol 2013;108(3):302–5.
+220. Zhang X, Xi W, Liu L, et al. Improvement in quality of life and activities of
+daily living in patients with liver cirrhosis with the use of health education
+and patient health empowerment. Med Sci Monit 2019;25:4602–8.
+221. Ismond KP, Loch-Ismond E, Tandon P, et al. An evaluation of online
+cirrhosis-related information intended for patients and caregivers. Clin
+Gastroenterol Hepatol 2023;21(3):835–7.e8.
+222. Bloom PP, Marx M, Wang TJ, et al. Attitudes towards digital health tools
+for outpatient cirrhosis management in patients with decompensated
+cirrhosis. BMJ Innov 2020;6(1):18–25.
+223. Montagnese S, Amato E, Schiﬀ S, et al. A patients’ and caregivers’
+perspective on hepatic encephalopathy. Metab Brain Dis 2012;27(4):
+567–72.
+224. Tandon P, Walling A, Patton H, et al. AGA clinical practice update on
+palliative care management in cirrhosis: Expert review. Clin
+Gastroenterol Hepatol 2021;19(4):646–56.e3.
+225. Shetty A, Saab EG, Choi G. Social impact of hepatic encephalopathy.
+Clin Liver Dis 2024;28(2):273–85.
+226. Deng LX, Sharma A, Gedallovich SM, et al. Caregiver burden in adult
+solid organ transplantation. Transplantation 2023;107(7):1482–91.
+227. Higginson IJ, Gao W, Jackson D, et al. Short-form Zarit Caregiver
+Burden Interviews were valid in advanced conditions. J Clin Epidemiol
+2010;63(5):535–42.
+228. B´edard M, Molloy DW, Squire L, et al. The Zarit Burden Interview: A
+new short version and screening version. Gerontologist 2001;41(5):
+652–7.
+229. Whalen KJ, Buchholz SW. The reliability, validity and feasibility of tools
+used to screen for caregiver burden: A systematic review. JBI Libr Syst
+Rev 2009;7(32):1373–430.
+230. Yanny B, Pham NV, Saleh H, et al. Approaches to assessing burden in
+caregivers of patients with cirrhosis. J Clin Transl Hepatol 2020;8(2):
+127–34.
+231. Rakoski MO, McCammon RJ, Piette JD, et al. Burden of cirrhosis on
+older Americans and their families: Analysis of the health and retirement
+study. Hepatology 2012;55(1):184–91.
+232. Johnson E, Hyde A, Drager D, et al. Collaborating with patients and
+caregivers to create web-based educational resources for people aﬀected
+by cirrhosis. PEC Innov 2023;3:100201.
+233. Bajaj JS, Ellwood M, Ainger T, et al. Mindfulness-based stress reduction
+therapy improves patient and caregiver-reported outcomes in cirrhosis.
+Clin Transl Gastroenterol 2017;8(7):e108.
+234. Tapper EB, Trivedi H, Simonetto DA, et al. The RELAX randomized
+controlled trial: Stretching versus meditation for nocturnal muscle
+cramps. Liver Int 2024;44(9):2434–41.
+235. Tapper EB, Saleh ZM, Lizza S, et al. CAREGIVER randomized trial of
+two mindfulness methods to improve the burden and distress of caring
+for persons with cirrhosis. Dig Dis Sci 2023;68(9):3625–33.
+236. Bajaj JS, Ahluwalia V, Thacker LR, et al. Brain training with video games
+in covert hepatic encephalopathy. Am J Gastroenterol 2017;112(2):
+316–24.
+237. Tapper EB, Nikirk S, Evon DM, et al. LIVE-SMART: A sequential,
+multiple assignment randomized trial to reduce falls in cirrhosis.
+Hepatol Commun 2025;9(3):e0626.
+238. Dajti E, Renzulli M, Colecchia A, et al. Size and location of spontaneous
+portosystemic shunts predict the risk of decompensation in cirrhotic
+patients. Dig Liver Dis 2022;54(1):103–10.
+
+© 2026 by The American College of Gastroenterology
+
+239. Laleman W, Praktiknjo M, Lauridsen MM, et al. Closing spontaneous
+portosystemic shunts in cirrhosis: Does it make sense? Does it work?
+What does it take? Metab Brain Dis 2023;38(5):1717–28.
+240. Saad WE, Lippert A, Saad NE, et al. Ectopic varices: Anatomical
+classiﬁcation, hemodynamic classiﬁcation, and hemodynamic-based
+management. Tech Vasc Interv Radiol 2013;16(2):158–75.
+241. Vidal-Gonz´alez J, Quiroga S, Sim´on-Talero M, et al. Spontaneous
+portosystemic shunts in liver cirrhosis: New approaches to an old
+problem. Therap Adv Gastroenterol 2020;13:1756284820961287.
+242. Philips CA, Kumar L, Augustine P. Shunt occlusion for portosystemic
+shunt syndrome related refractory hepatic encephalopathy-A singlecenter experience in 21 patients from Kerala. Indian J Gastroenterol
+2017;36(5):411–9.
+243. Zhao L, Wu Q, Li Q, et al. TIPSS plus extrahepatic collateral
+embolisation may decrease variceal rebleeding and post-TIPSS hepatic
+encephalopathy. Gut 2024;73(7):1224–6.
+244. Xia Y, Tie J, Wang G, et al. Small transjugular intrahepatic portosystemic
+shunt plus variceal embolization for gastric varices: A multicenter cohort
+study. Clin Gastroenterol Hepatol 2025;23(6):965–77.e20.
+245. Rathi S, Kalantri A, Shastri A, et al. Endoscopic ultrasound-guided
+transgastric shunt obliteration for recurrent hepatic encephalopathy.
+Am J Gastroenterol 2023;118(10):1895–8.
+246. Nardelli S, Lattanzi B, Merli M, et al. Muscle alterations are associated
+with minimal and overt hepatic encephalopathy in patients with liver
+cirrhosis. Hepatology 2019;70(5):1704–13.
+247. Ruiz-Marg´ain A, Macías-Rodríguez RU, Ampuero J, et al. Low phase
+angle is associated with the development of hepatic encephalopathy
+in patients with cirrhosis. World J Gastroenterol 2016;22(45):
+10064–70.
+248. Siramolpiwat S, Kiattikunrat K, Soontararatpong R, et al. Frailty as tested
+by the Liver Frailty Index is associated with decompensation and
+unplanned hospitalization in patients with compensated cirrhosis.
+Scand J Gastroenterol 2021;56(10):1210–9.
+249. Serper M, Tao SY, Kent DS, et al. Inpatient frailty assessment is feasible
+and predicts nonhome discharge and mortality in decompensated
+cirrhosis. Liver Transpl 2021;27(12):1711–22.
+250. Ney M, Tangri N, Dobbs B, et al. Predicting hepatic encephalopathyrelated hospitalizations using a composite assessment of cognitive
+impairment and frailty in 355 patients with cirrhosis. Am J
+Gastroenterol 2018;113(10):1506–15.
+251. Berry K, Ruck JM, Barry F, et al. Prevalence of cognitive impairment in
+liver transplant recipients. Clin Transpl 2024;38(1):e15229.
+252. Krogsgaard K, Gluud C, Henriksen JH, et al. Correlation between liver
+morphology and portal pressure in alcoholic liver disease. Hepatology
+1984;4:699–703.
+253. Cui Y, Zhang M, Guo J, et al. Correlation between sarcopenia and
+cirrhosis: A meta-analysis. Front Nutr 2023;10:1342100.
+254. Lai JC, Rahimi RS, Verna EC, et al. Frailty associated with waitlist
+mortality independent of ascites and hepatic encephalopathy in
+a multicenter study. Gastroenterology 2019;156(6):1675–82.
+255. Kamiliou A, Lekakis V, Chrysavgis L, et al. Prevalence and impact on the
+outcome of myosteatosis in patients with cirrhosis: A systematic review
+and meta-analysis. Hepatol Int 2024;18(2):688–99.
+256. Tarter RE, Panzak G, Switala J, et al. Isokinetic muscle strength and its
+association with neuropsychological capacity in cirrhotic alcoholics.
+Alcohol Clin Exp Res 1997;21(2):191–6.
+257. Duarte-Rojo A, Bux R, Sliwa J. Untangling frailty, sarcopenia, and
+physical ﬁtness in cirrhosis. Clin Liver Dis (Hoboken) 2024;23(1):e0213.
+258. Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: Revised European
+consensus on deﬁnition and diagnosis. Age Ageing 2019;48(4):601.
+259. Ebadi M, Bhanji RA, Dunichand-Hoedl AR, et al. Sarcopenia severity
+based on computed tomography image analysis in patients with
+cirrhosis. Nutrients 2020;12(11):3463.
+260. Tateyama M, Naoe H, Tanaka M, et al. Loss of skeletal muscle mass
+aﬀects the incidence of minimal hepatic encephalopathy: A case control
+study. BMC Gastroenterol 2020;20(1):371.
+261. Wijarnpreecha K, Werlang M, Panjawatanan P, et al. Association
+between sarcopenia and hepatic encephalopathy: A systematic review
+and meta-analysis. Ann Hepatol 2020;19(3):245–50.
+262. Merli M, Giusto M, Lucidi C, et al. Muscle depletion increases the risk of
+overt and minimal hepatic encephalopathy: Results of a prospective
+study. Metab Brain Dis 2013;28(2):281–4.
+263. Augusti L, Franzoni LC, Santos LA, et al. Lower values of handgrip
+strength and adductor pollicis muscle thickness are associated with
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+615
+
+616
+
+Bajaj et al
+
+hepatic encephalopathy manifestations in cirrhotic patients. Metab
+Brain Dis 2016;31(4):909–15.
+264. Miwa T, Hanai T, Nishimura K, et al. Handgrip strength stratiﬁes the
+risk of covert and overt hepatic encephalopathy in patients with
+cirrhosis. JPEN J Parenter Enteral Nutr 2022;46(4):858–66.
+265. San Martín-Valenzuela C, Borras-Barrachina A, Gallego JJ, et al. Motor
+and cognitive performance in patients with liver cirrhosis with minimal
+hepatic encephalopathy. J Clin Med 2020;9(7):2154.
+266. Lai JC, Dodge JL, Kappus MR, et al. Changes in frailty are associated with
+waitlist mortality in patients with cirrhosis. J Hepatol 2020;73(3):
+575–81.
+267. Lin FP, Visina JM, Bloomer PM, et al. Prehabilitation-driven changes in
+frailty metrics predict mortality in patients with advanced liver disease.
+Am J Gastroenterol 2021;116(10):2105–17.
+268. Dunn MA, Josbeno DA, Schmotzer AR, et al. The gap between clinically
+assessed physical performance and objective physical activity in liver
+transplant candidates. Liver Transpl 2016;22(10):1324–32.
+269. Moctezuma-Velazquez C, Ebadi M, Bhanji RA, et al. Limited
+performance of subjective global assessment compared to computed
+tomography-determined sarcopenia in predicting adverse clinical
+outcomes in patients with cirrhosis. Clin Nutr 2019;38(6):2696–703.
+270. C´ordoba J, L´opez-Hellín J, Planas M, et al. Normal protein diet for
+episodic hepatic encephalopathy: Results of a randomized study.
+J Hepatol 2004;41(1):38–43.
+271. Swart GR, van den Berg JW, van Vuure JK, et al. Minimum protein
+requirements in liver cirrhosis determined by nitrogen balance
+measurements at three levels of protein intake. Clin Nutr 1989;8(6):
+329–36.
+272. Swart GR, van den Berg JW, Wattimena JL, et al. Elevated protein
+requirements in cirrhosis of the liver investigated by whole body protein
+turnover studies. Clin Sci (Lond) 1988;75(1):101–7.
+273. Maharshi S, Sharma BC, Sachdeva S, et al. Eﬃcacy of nutritional therapy
+for patients with cirrhosis and minimal hepatic encephalopathy in
+a randomized trial. Clin Gastroenterol Hepatol 2016;14(3):454–60.e3,
+quiz e33.
+274. Ahuja H, Sharma BC, Sachdeva S, et al. A double blind randomized
+controlled trial to assess eﬃcacy of nutritional therapy for prevention of
+recurrence of hepatic encephalopathy in patients with cirrhosis.
+J Gastroenterol Hepatol 2023;38(3):433–40.
+275. Sharma BC, Maharshi S, Sachdeva S, et al. Nutritional therapy for
+persistent cognitive impairment after resolution of overt hepatic
+encephalopathy in patients with cirrhosis: A double-blind randomized
+controlled trial. J Gastroenterol Hepatol 2023;38(11):1917–25.
+276. Guo YJ, Tian ZB, Jiang N, et al. Eﬀects of late evening snack on cirrhotic
+patients: A systematic review and meta-analysis. Gastroenterol Res Pract
+2018;2018:9189062.
+277. Plank LD, Gane EJ, Peng S, et al. Nocturnal nutritional supplementation
+improves total body protein status of patients with liver cirrhosis: A
+randomized 12-month trial. Hepatology 2008;48(2):557–66.
+278. Chen CJ, Wang LC, Kuo HT, et al. Signiﬁcant eﬀects of late evening
+snack on liver functions in patients with liver cirrhosis: A meta-analysis
+of randomized controlled trials. J Gastroenterol Hepatol 2019;34(7):
+1143–52.
+279. Leoni L, Valoriani F, Barbieri R, et al. Unlocking the power of lateevening snacks: Practical ready-to-prescribe chart menu for patients
+with cirrhosis. Nutrients 2023;15:3471.
+280. Hanai T, Nishimura K, Unome S, et al. Nutritional counseling improves
+mortality and prevents hepatic encephalopathy in patients with alcoholassociated liver disease. Hepatol Res 2024;54(11):1089–98.
+281. Reuter B, Shaw J, Hanson J, et al. Nutritional assessment in inpatients
+with cirrhosis can be improved after training and is associated with lower
+readmissions. Liver Transpl 2019;25(12):1790–9.
+282. Meena BL, Taneja S, Tandon P, et al. Home-based intensive nutrition
+therapy improves frailty and sarcopenia in patients with decompensated
+cirrhosis: A randomized clinical trial. J Gastroenterol Hepatol 2023;
+38(2):210–8.
+283. Holeˇcek M. The role of skeletal muscle in the pathogenesis of altered
+concentrations of branched-chain amino acids (valine, leucine, and
+isoleucine) in liver cirrhosis, diabetes, and other diseases. Physiol Res
+2021;70(3):293–305.
+284. Swansson WD, Anderson BM, Yeoh SW, et al. Management of
+minimal and overt hepatic encephalopathy with branched-chain
+amino acids: A review of the evidence. Eur J Gastroenterol Hepatol
+2023;35(8):812–21.
+The American Journal of GASTROENTEROLOGY
+
+285. Hey P, Hoermann R, Sinclair M, et al. Branched-chain amino acid
+supplementation does not improve measures of sarcopenia in cirrhosis:
+Results of a randomised controlled trial. Aliment Pharmacol Ther 2024;
+59(8):941–52.
+286. Iqbal U, Jadeja RN, Khara HS, et al. A comprehensive review evaluating
+the impact of protein source (vegetarian vs. meat based) in hepatic
+encephalopathy. Nutrients 2021;13(2):370.
+287. Uribe M, M´arquez MA, Garcia-Ramos G, et al. Treatment of chronic
+portal--systemic encephalopathy with vegetable and animal protein
+diets. A controlled crossover study. Dig Dis Sci 1982;27(12):1109–16.
+288. Bianchi GP, Marchesini G, Fabbri A, et al. Vegetable versus animal
+protein diet in cirrhotic patients with chronic encephalopathy. A
+randomized cross-over comparison. J Intern Med 1993;233(5):385–92.
+289. Jonung T, Jeppsson B, Aslund U, et al. A comparison between meat and
+vegan protein diet in patients with mild chronic hepatic encephalopathy.
+Clin Nutr 1987;6(3):169–74.
+290. Badal BD, Fagan A, Tate V, et al. Substitution of one meat-based meal
+with vegetarian and vegan alternatives generates lower ammonia and
+alters metabolites in cirrhosis: A randomized clinical trial. Clin Transl
+Gastroenterol 2024;15:e1.
+291. Lattanzi B, Bruni A, Di Cola S, et al. The eﬀects of 12-week beta-hydroxybeta-methylbutyrate supplementation in patients with liver cirrhosis:
+Results from a randomized controlled single-blind pilot study. Nutrients
+2021;13(7):2296.
+292. Espina S, Sanz-Paris A, Gonzalez-Irazabal Y, et al. Randomized clinical
+trial: Eﬀects of beta-hydroxy-beta-methylbutyrate (HMB)-enriched vs.
+HMB-free oral nutritional supplementation in malnourished cirrhotic
+patients. Nutrients 2022;14(11):2344.
+293. Goh ET, Stokes CS, Sidhu SS, et al. L-ornithine L-aspartate for
+prevention and treatment of hepatic encephalopathy in people with
+cirrhosis. Cochrane Database Syst Rev 2018;5:CD012410.
+294. Rom´an E, Nieto JC, Gely C, et al. Eﬀect of a multistrain probiotic on
+cognitive function and risk of falls in patients with cirrhosis: A
+randomized trial. Hepatol Commun 2019;3(5):632–45.
+295. Johnston HE, Takefala TG, Kelly JT, et al. The eﬀect of diet and exercise
+interventions on body composition in liver cirrhosis: A systematic
+review. Nutrients 2022;14(16):3365.
+296. Kasia C, Duarte-Rojo A. Optimizing the liver transplant candidate. npj
+Gut and Liver 2024;1:3.
+297. Lin FP, Ferrando AA, Dennis RA, et al. Exercise-induced
+hyperammonemia does not precipitate overt hepatic encephalopathy.
+Hepatology 2020;72(2):778–80.
+298. Jamali T, Raasikh T, Bustamante G, et al. Outcomes of exercise
+interventions in patients with advanced liver disease: A systematic
+review of randomized clinical trials. Am J Gastroenterol 2022;117(10):
+1614–20.
+299. Tapper EB, Martinez-Macias R, Duarte-Rojo A. Is exercise beneﬁcial
+and safe in patients with cirrhosis and portal hypertension? Curr
+Hepatol Rep 2018;17(3):175–83.
+300. Duarte-Rojo A, Bloomer PM, Grubbs RK, et al. Use of a mobile-assisted
+telehealth regimen to increase exercise in transplant candidates: A
+home-based prehabilitation pilot and feasibility trial. Clin Transl
+Gastroenterol 2023;14(11):e00601.
+301. Macías-Rodríguez RU, Ilarraza-Lomelí H, Ruiz-Marg´ain A, et al.
+Changes in hepatic venous pressure gradient induced by physical
+exercise in cirrhosis: Results of a pilot randomized open clinical trial.
+Clin Transl Gastroenterol 2016;7:e180.
+302. Berzigotti A, Albillos A, Villanueva C, et al. Eﬀects of an intensive
+lifestyle intervention program on portal hypertension in patients with
+cirrhosis and obesity: The SportDiet study. Hepatology 2017;65(4):
+1293–305.
+303. Macías-Rodríguez RU, Ruiz-Marg´ain A, Rom´an-Calleja B, et al. Eﬀect of
+a monitored exercise protocol in cerebral and hepatic hemodynamics in
+patients with cirrhosis and portal hypertension. Dig Liver Dis 2024;
+56(5):827–35.
+304. Zenith L, Meena N, Ramadi A, et al. Eight weeks of exercise training
+increases aerobic capacity and muscle mass and reduces fatigue in
+patients with cirrhosis. Clin Gastroenterol Hepatol 2014;12(11):
+1920–6.e2.
+305. Aamann L, Tandon P, B´emeur C. Role of exercise in the management of
+hepatic encephalopathy: Experience from animal and human studies.
+J Clin Exp Hepatol 2019;9(1):131–6.
+306. Sirisunhirun P, Bandidniyamanon W, Jrerattakon Y, et al. Eﬀect of a 12week home-based exercise training program on aerobic capacity, muscle
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+ACG Hepatic Encephalopathy Guideline
+
+mass, liver and spleen stiﬀness, and quality of life in cirrhotic patients: A
+randomized controlled clinical trial. BMC Gastroenterol 2022;22(1):66.
+307. Rom´an E, Torrades MT, Nadal MJ, et al. Randomized pilot study: Eﬀects
+of an exercise programme and leucine supplementation in patients with
+cirrhosis. Dig Dis Sci 2014;59(8):1966–75.
+308. Aamann L, Dam G, Borre M, et al. Resistance training increases muscle
+strength and muscle size in patients with liver cirrhosis. Clin
+Gastroenterol Hepatol 2020;18(5):1179–87.e6.
+309. Wallen MP, Woodward AJ, Hall A, et al. Poor cardiorespiratory ﬁtness is
+a risk factor for sepsis in patients awaiting liver transplantation.
+Transplantation 2019;103(3):529–35.
+310. Sinclair M, Grossmann M, Hoermann R, et al. Testosterone therapy
+increases muscle mass in men with cirrhosis and low testosterone: A
+randomised controlled trial. J Hepatol 2016;65(5):906–13.
+311. Bruno BJ, Weavil JC, Ogle J, et al. Oral LPCN 1148 improves sarcopenia
+and hepatic encephalopathy in male patients with cirrhosis: A
+randomized, placebo-controlled phase 2 trial. Hepatology 2025;81(6):
+1764–75.
+312. Bajaj JS, Salzman N, Acharya C, et al. Microbial functional change is
+linked with clinical outcomes after capsular fecal transplant in cirrhosis.
+JCI Insight 2019;4(24):e133410.
+313. Bloom PP, Bassis CM, Crossette E, et al. Safety and eﬃcacy of a deﬁned
+bacterial consortium, VE303, to treat HE. Hepatol Commun 2025;9(3):
+e0650.
+314. Dhiman RK, Rana B, Agrawal S, et al. Probiotic VSL#3 reduces liver
+disease severity and hospitalization in patients with cirrhosis: A
+randomized, controlled trial. Gastroenterology 2014;147(6):1327–37.e3.
+315. Bajaj JS, Saeian K, Christensen KM, et al. Probiotic yogurt for the
+treatment of minimal hepatic encephalopathy. Am J Gastroenterol 2008;
+103(7):1707–15.
+316. Sharma K, Pant S, Misra S, et al. Eﬀect of rifaximin, probiotics, and
+l-ornithine l-aspartate on minimal hepatic encephalopathy: A
+randomized controlled trial. Saudi J Gastroenterol 2014;20(4):225–32.
+317. Bajaj JS, Heuman DM, Hylemon PB, et al. Randomised clinical trial:
+Lactobacillus GG modulates gut microbiome, metabolome and
+endotoxemia in patients with cirrhosis. Aliment Pharmacol Ther 2014;
+39(10):1113–25.
+318. Rahimi RS, Safadi R, Thabut D, et al. Eﬃcacy and safety of ornithine
+phenylacetate for treating overt hepatic encephalopathy in a randomized
+trial. Clin Gastroenterol Hepatol 2021;19(12):2626–35.e7.
+319. Caraceni P, Riggio O, Angeli P, et al. Long-term albumin administration
+in decompensated cirrhosis (ANSWER): An open-label randomised
+trial. Lancet 2018;391(10138):2417–29.
+320. Di Pascoli M, Fasolato S, Piano S, et al. Long-term administration of
+human albumin improves survival in patients with cirrhosis and
+refractory ascites. Liver Int 2019;39(1):98–105.
+321. Ventura-Cots M, Sim´on-Talero M, Poca M, et al. Eﬀects of albumin on
+survival after a hepatic encephalopathy episode: Randomized doubleblind trial and meta-analysis. J Clin Med 2021;10(21):4885.
+322. Fagan A, Gavis EA, Gallagher ML, et al. A double-blind randomized
+placebo-controlled trial of albumin in outpatients with hepatic
+encephalopathy: HEAL study. J Hepatol 2023;78(2):312–21.
+323. Montagnese S, Lauridsen M, Vilstrup H, et al. A pilot study of
+golexanolone, a new GABA-A receptor-modulating steroid antagonist,
+in patients with covert hepatic encephalopathy. J Hepatol 2021;75(1):
+98–107.
+324. Schindler P, Heinzow H, Trebicka J, et al. Shunt-induced hepatic
+encephalopathy in TIPS: Current approaches and clinical challenges.
+J Clin Med 2020;9(11):3784.
+325. Boike JR, Thornburg BG, Asrani SK, et al. North American practicebased recommendations for transjugular intrahepatic portosystemic
+shunts in portal hypertension. Clin Gastroenterol Hepatol 2022;20(8):
+1636–62.e36.
+326. Maleux G, Heye S, Verslype C, et al. Management of transjugular
+intrahepatic portosystemic shunt induced refractory hepatic
+encephalopathy with the parallel technique: Results of a clinical followup study. J Vasc Interv Radiol 2007;18(8):986–92, quiz 993.
+327. Pereira K, Carrion AF, Martin P, et al. Current diagnosis and
+management of post-transjugular intrahepatic portosystemic shunt
+refractory hepatic encephalopathy. Liver Int 2015;35(12):2487–94.
+328. Tiede A, Stockhoﬀ L, Ehrenbauer AF, et al. Value of systemic
+inﬂammation markers for the detection of minimal and prediction of
+overt hepatic encephalopathy after TIPS insertion. Metab Brain Dis
+2024;40(1):58.
+
+© 2026 by The American College of Gastroenterology
+
+329. Friis KH, Thomsen KL, Laleman W, et al. Post-transjugular intrahepatic
+portosystemic shunt (TIPS) hepatic encephalopathy: A review of the
+past decade’s literature focusing on incidence, risk factors, and
+prophylaxis. J Clin Med 2023;13(1):14.
+330. Ahmed Z, Badal J, Gangwani MK, et al. Sarcopenia is a risk factor for
+post-transjugular intrahepatic portosystemic shunt hepatic
+encephalopathy and mortality: A systematic review and meta-analysis.
+Indian J Gastroenterol 2024;43(4):748–59.
+331. Li Y, Guo Y, Wang X, et al. Association between sarcopenia and hepatic
+encephalopathy after transjugular intrahepatic portosystemic shunt in
+patients with cirrhosis: A systematic review and meta-analysis. Abdom
+Radiol (NY) 2024;49(2):575–85.
+332. Gazda J, Di Cola S, Lapenna L, et al. The impact of transjugular
+intrahepatic portosystemic shunt on nutrition in liver cirrhosis patients:
+A systematic review. Nutrients 2023;15(7):1617.
+333. Tsien C, Shah SN, McCullough AJ, et al. Reversal of sarcopenia predicts
+survival after a transjugular intrahepatic portosystemic stent. Eur J
+Gastroenterol Hepatol 2013;25(1):85–93.
+334. Cai W, Lin H, Qi R, et al. Psoas muscle density predicts occurrences of hepatic
+encephalopathy in patients receiving transjugular intrahepatic portosystemic
+shunts within 1 year. Cardiovasc Intervent Radiol 2022;45:93–101.
+335. Liu J, Ma J, Yang C, et al. Sarcopenia in patients with cirrhosis after
+transjugular intrahepatic portosystemic shunt placement. Radiology
+2022;303(3):711–9.
+336. Liu J, Yang C, Yao J, et al. Improvement of sarcopenia is beneﬁcial for
+prognosis in cirrhotic patients after TIPS placement. Dig Liver Dis 2023;
+55(7):918–25.
+337. Wang C, Teng Y, Gao J, et al. Low adipose tissue index as an indicator of
+hepatic encephalopathy in cirrhotic patients following transjugular
+intrahepatic portosystemic shunt. Abdom Radiol (NY) 2023;48(4):
+1454–67.
+338. Gioia S, Ridola L, Cristofaro L, et al. The improvement in body
+composition including subcutaneous and visceral fat reduces ammonia
+and hepatic encephalopathy after transjugular intrahepatic
+portosystemic shunt. Liver Int 2021;41(12):2965–73.
+339. Liang A, Brar S, Almaghrabi M, et al. Primary prevention of hepatic
+encephalopathy post-TIPS: A systematic review and meta-analysis.
+Medicine (Baltimore) 2023;102(38):e35266.
+340. Lv Y, Chen H, Luo B, et al. Concurrent large spontaneous portosystemic
+shunt embolization for the prevention of overt hepatic encephalopathy
+after TIPS: A randomized controlled trial. Hepatology 2022;76(3):
+676–88.
+341. Bureau C, Thabut D, Jezequel C, et al. The use of rifaximin in the
+prevention of overt hepatic encephalopathy after transjugular
+intrahepatic portosystemic shunt: A randomized controlled trial. Ann
+Intern Med 2021;174(5):633–40.
+342. Bajaj JS, Saeian K. MELD score does not discriminate against patients
+with hepatic encephalopathy. Dig Dis Sci 2005;50(4):753–6.
+343. Wong RJ, Gish RG, Ahmed A. Hepatic encephalopathy is associated
+with signiﬁcantly increased mortality among patients awaiting liver
+transplantation. Liver Transpl 2014;20(12):1454–61.
+344. Bajaj JS, O’Leary JG, Tandon P, et al. Hepatic encephalopathy is
+associated with mortality in patients with cirrhosis independent of other
+extrahepatic organ failures. Clin Gastroenterol Hepatol 2017;15(4):
+565–74.e4.
+345. Gadiparthi C, Cholankeril G, Yoo ER, et al. Waitlist outcomes in liver
+transplant candidates with high MELD and severe hepatic
+encephalopathy. Dig Dis Sci 2018;63(6):1647–53.
+346. Lucidi C, Ginanni Corradini S, Abraldes JG, et al. Hepatic
+encephalopathy expands the predictivity of model for end-stage liver
+disease in liver transplant setting: Evidence by means of 2 independent
+cohorts. Liver Transpl 2016;22(10):1333–42.
+347. Silvey S, Patel N, O’Leary JG, et al. Enhancement of cirrhosis mortality
+prediction by including hepatic encephalopathy to Meld3.0 in a national
+veteran cohort. Am J Gastroenterol 2025;120(7):1649–52.
+348. Weiss N, Thabut D. Neurological complications occurring after liver
+transplantation: Role of risk factors, hepatic encephalopathy, and acute
+(on chronic) brain injury. Liver Transpl 2019;25(3):469–87.
+349. Ahluwalia V, Wade JB, White MB, et al. Liver transplantation
+signiﬁcantly improves global functioning and cerebral processing. Liver
+Transpl 2016;22(10):1379–90.
+350. Bajaj JS, Schubert CM, Heuman DM, et al. Persistence of cognitive
+impairment after resolution of overt hepatic encephalopathy.
+Gastroenterology 2010;138(7):2332–40.
+The American Journal of GASTROENTEROLOGY
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+617
+
+618
+
+Bajaj et al
+
+351. Nardelli S, Allampati S, Riggio O, et al. Hepatic encephalopathy is
+associated with persistent learning impairments despite adequate
+medical treatment: A multicenter, international study. Dig Dis Sci 2017;
+62(3):794–800.
+352. Riggio O, Ridola L, Pasquale C, et al. Evidence of persistent cognitive
+impairment after resolution of overt hepatic encephalopathy. Clin
+Gastroenterol Hepatol 2011;9(2):181–3.
+353. Wong RJ, Aguilar M, Gish RG, et al. The impact of pretransplant hepatic
+encephalopathy on survival following liver transplantation. Liver
+Transpl 2015;21(7):873–80.
+354. Campagna F, Montagnese S, Schiﬀ S, et al. Cognitive impairment and
+electroencephalographic alterations before and after liver
+transplantation: What is reversible? Liver Transpl 2014;20(8):977–86.
+355. Sotil EU, Gottstein J, Ayala E, et al. Impact of preoperative overt hepatic
+encephalopathy on neurocognitive function after liver transplantation.
+Liver Transpl 2009;15(2):184–92.
+
+The American Journal of GASTROENTEROLOGY
+
+356. Garcia-Martinez R, Rovira A, Alonso J, et al. Hepatic encephalopathy is
+associated with posttransplant cognitive function and brain volume.
+Liver Transpl 2011;17(1):38–46.
+357. Acharya C, Wade JB, Fagan A, et al. Overt hepatic encephalopathy
+impairs learning on the EncephalApp stroop which is reversible after
+liver transplantation. Liver Transpl 2017;23(11):1396–403.
+358. Silvey S, Patel N, Davis BC, et al. Use of natural language processing to
+objectively identify hepatic encephalopathy in multiple cohorts. Am J
+Gastroenterol 2025.
+359. Berg CL, Merion RM, Shearon TH, et al. Liver transplant recipient
+survival beneﬁt with living donation in the model for endstage liver
+disease allocation era. Hepatology 2011;54(4):1313–21.
+360. Bausch Health Companies Inc. Bausch Health provides update on RED-C
+phase 3 clinical trials. Bausch Health Companies Inc Investor Relations.
+Published January 23, 2026. Accessed January 26, 2026. https://ir.
+bauschhealth.com/news-releases/2026/01-23-2026-124516159
+
+VOLUME 121 | MARCH 2026 www.amjgastro.com
+
+Copyright © 2026 by The American College of Gastroenterology. Unauthorized reproduction of this article is prohibited.
+
+
