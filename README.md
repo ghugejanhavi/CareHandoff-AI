@@ -5,7 +5,9 @@
 ---
 
 ## Link
+
 https://carehandoff-ai.onrender.com/
+
 ---
 
 ## Demo
@@ -15,7 +17,7 @@ https://carehandoff-ai.onrender.com/
 
 ## Overview
 
-Discharge-to-handoff communication failures are responsible for an estimated 70% of medical errors at care transitions (IOM, Joint Commission). CareHandoff AI runs a 5-agent pipeline over a discharge note — comparing it against the patient's structured EHR data and clinical guidelines — and surfaces medication gaps, lab omissions, allergy conflicts, and guideline violations for clinician review before the patient leaves.
+Discharge-to-handoff communication failures are responsible for an estimated 70% of medical errors at care transitions (IOM, Joint Commission). CareHandoff AI runs a 5-agent pipeline over a discharge note, comparing it against the patient's structured EHR data and clinical guidelines, and surfaces medication gaps, lab omissions, allergy conflicts, and guideline violations for clinician review before the patient leaves.
 
 **Decision-support only** — every flagged item is reviewed and acted on by a clinician. No autonomous clinical decisions are made.
 
